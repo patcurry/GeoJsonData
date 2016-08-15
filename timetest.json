@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "year": 1994
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.03125,
+          49.83798245308484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "year": 1995
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.765625,
+          50.064191736659104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "year": 1995
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8984375,
+          48.69096039092549
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "year": 1996
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.1640625,
+          45.336701909968106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "year": 1998
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.515625,
+          39.90973623453719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "year": 1997
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0390625,
+          49.38237278700955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "year": 1998
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.5703125,
+          33.43144133557529
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "year": 1999
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.328125,
+          30.751277776257812
+        ]
+      }
+    }
+  ]
+}
