@@ -110,7 +110,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 34.873511,-79.67022 ]
+       "coordinates":  [ -79.67022,34.873511 ]
     },
     "properties": {
     "DOI":"10.1016/j.earscirev.2015.02.007",
@@ -194,7 +194,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -23.508333,152.091667 ]
+       "coordinates":  [ 152.091667,-23.508333 ]
     },
     "properties": {
     "DOI":"10.1016/j.geomorph.2016.06.018",
