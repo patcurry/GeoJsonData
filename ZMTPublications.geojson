@@ -1,0 +1,719 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.1,8.233333 ]
+    },
+    "properties": {
+    "DOI":"10.1007/s00367-016-0435-9",
+    "Publication Year":2016,
+    "Author":"Casella, Elisa; Rovere, Alessio; Pedroncini, Andrea; Stark, Colin P.; Casella, Marco; Ferrari, Marco; Firpo, Marco",
+    "Title":"Drones as tools for monitoring beach topography changes in the Ligurian Sea (NW Mediterranean)",
+    "Publication Title":"Geo-Marine Letters",
+    "ISBN":"",
+    "ISSN":"0276-0460, 1432-1157",
+    "Url":"http://link.springer.com/10.1007/s00367-016-0435-9",
+    "Date":"2016-04",
+    "Pages":"151-163",
+    "Issue":"2",
+    "Volume":36
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 109.6820068,-7.3352267 ]
+    },
+    "properties": {
+    "DOI":"10.1007/s00767-014-0275-3",
+    "Publication Year":2015,
+    "Author":"Moosdorf, Nils; Stieglitz, Thomas; Waska, Hannelore; Dürr, Hans H.; Hartmann, Jens",
+    "Title":"Submarine groundwater discharge from tropical islands: a review",
+    "Publication Title":"Grundwasser",
+    "ISBN":"",
+    "ISSN":"1430-483X, 1432-1165",
+    "Url":"http://link.springer.com/10.1007/s00767-014-0275-3",
+    "Date":"2015-03",
+    "Pages":"53-67",
+    "Issue":"1",
+    "Volume":20
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 29.455166,34.971672 ]
+    },
+    "properties": {
+    "DOI":"10.1007/s10021-016-9966-1",
+    "Publication Year":2016,
+    "Author":"Cardini, Ulisse; Bednarz, Vanessa N.; van Hoytema, Nanne; Rovere, Alessio; Naumann, Malik S.; Al-Rshaidat, Mamoon M. D.; Wild, Christian",
+    "Title":"Budget of Primary Production and Dinitrogen Fixation in a Highly Seasonal Red Sea Coral Reef",
+    "Publication Title":"Ecosystems",
+    "ISBN":"",
+    "ISSN":"1432-9840, 1435-0629",
+    "Url":"http://link.springer.com/10.1007/s10021-016-9966-1",
+    "Date":"2016-08",
+    "Pages":"771-785",
+    "Issue":"5",
+    "Volume":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 178.4317017,-18.1458518 ]
+    },
+    "properties": {
+    "DOI":"10.1016/j.cosust.2012.05.008",
+    "Publication Year":2012,
+    "Author":"Breckwoldt, Annette; Seidel, Henrike",
+    "Title":"The need to know what to manage—community-based marine resource monitoring in Fiji",
+    "Publication Title":"Current Opinion in Environmental Sustainability",
+    "ISBN":"",
+    "ISSN":"18773435",
+    "Url":"http://linkinghub.elsevier.com/retrieve/pii/S1877343512000632",
+    "Date":"2012-07",
+    "Pages":"331-337",
+    "Issue":"3",
+    "Volume":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 110.8407211,19.536173 ]
+    },
+    "properties": {
+    "DOI":"10.1016/j.csr.2012.05.006",
+    "Publication Year":2013,
+    "Author":"Herbeck, Lucia S.; Unger, Daniela; Wu, Ying; Jennerjahn, Tim C.",
+    "Title":"Effluent, nutrient and organic matter export from shrimp and fish ponds causing eutrophication in coastal and back-reef waters of NE Hainan, tropical China",
+    "Publication Title":"Continental Shelf Research",
+    "ISBN":"",
+    "ISSN":"2784343",
+    "Url":"http://linkinghub.elsevier.com/retrieve/pii/S0278434312001288",
+    "Date":"2013-04",
+    "Pages":"92-104",
+    "Issue":"",
+    "Volume":57
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.873511,-79.67022 ]
+    },
+    "properties": {
+    "DOI":"10.1016/j.earscirev.2015.02.007",
+    "Publication Year":2015,
+    "Author":"Rovere, A.; Hearty, P.J.; Austermann, J.; Mitrovica, J.X.; Gale, J.; Moucha, R.; Forte, A.M.; Raymo, M.E.",
+    "Title":"Mid-Pliocene shorelines of the US Atlantic Coastal Plain — An improved elevation database with comparison to Earth model predictions",
+    "Publication Title":"Earth-Science Reviews",
+    "ISBN":"",
+    "ISSN":"128252",
+    "Url":"http://linkinghub.elsevier.com/retrieve/pii/S0012825215000355",
+    "Date":"2015-06",
+    "Pages":"117-131",
+    "Issue":"",
+    "Volume":145
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.3275523,10.9795113 ]
+    },
+    "properties": {
+    "DOI":"10.1016/j.ecolecon.2016.04.022",
+    "Publication Year":2016,
+    "Author":"Torres-Guevara, Luz Elba; Schlüter, Achim",
+    "Title":"External validity of artefactual field experiments: A study on cooperation, impatience and sustainability in an artisanal fishery in Colombia",
+    "Publication Title":"Ecological Economics",
+    "ISBN":"",
+    "ISSN":"9218009",
+    "Url":"http://linkinghub.elsevier.com/retrieve/pii/S0921800915305310",
+    "Date":"2016-08",
+    "Pages":"187-201",
+    "Issue":"",
+    "Volume":128
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.114427,8.247597 ]
+    },
+    "properties": {
+    "DOI":"10.1016/j.ecss.2014.08.012",
+    "Publication Year":2014,
+    "Author":"Casella, Elisa; Rovere, Alessio; Pedroncini, Andrea; Mucerino, Luigi; Casella, Marco; Cusati, Luis Alberto; Vacchi, Matteo; Ferrari, Marco; Firpo, Marco",
+    "Title":"Study of wave runup using numerical models and low-altitude aerial photogrammetry: A tool for coastal management",
+    "Publication Title":"Estuarine, Coastal and Shelf Science",
+    "ISBN":"",
+    "ISSN":"2727714",
+    "Url":"http://linkinghub.elsevier.com/retrieve/pii/S0272771414002273",
+    "Date":"2014-08",
+    "Pages":"160-167",
+    "Issue":"",
+    "Volume":149
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 119.299896,-4.874498 ]
+    },
+    "properties": {
+    "DOI":"10.1016/j.geomorph.2015.12.023",
+    "Publication Year":2016,
+    "Author":"Mann, Thomas; Rovere, Alessio; Schöne, Tilo; Klicpera, André; Stocchi, Paolo; Lukman, Muhammad; Westphal, Hildegard",
+    "Title":"The magnitude of a mid-Holocene sea-level highstand in the Strait of Makassar",
+    "Publication Title":"Geomorphology",
+    "ISBN":"",
+    "ISSN":"0169555X",
+    "Url":"http://linkinghub.elsevier.com/retrieve/pii/S0169555X15302427",
+    "Date":"2016-03",
+    "Pages":"155-163",
+    "Issue":"",
+    "Volume":257
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -23.508333,152.091667 ]
+    },
+    "properties": {
+    "DOI":"10.1016/j.geomorph.2016.06.018",
+    "Publication Year":2016,
+    "Author":"Bryson, Mitch; Duce, Stephanie; Harris, Dan; Webster, Jody M.; Thompson, Alisha; Vila-Concejo, Ana; Williams, Stefan B.",
+    "Title":"Geomorphic changes of a coral shingle cay measured using Kite Aerial Photography",
+    "Publication Title":"Geomorphology",
+    "ISBN":"",
+    "ISSN":"0169555X",
+    "Url":"http://linkinghub.elsevier.com/retrieve/pii/S0169555X16304755",
+    "Date":"2016-10",
+    "Pages":"1-8",
+    "Issue":"",
+    "Volume":270
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.7444878,9.1648062 ]
+    },
+    "properties": {
+    "DOI":"10.1016/j.gloenvcha.2015.01.008",
+    "Publication Year":2015,
+    "Author":"Weber de Morais, Gabriela; Schlüter, Achim; Verweij, Marco",
+    "Title":"Can institutional change theories contribute to the understanding of marine protected areas?",
+    "Publication Title":"Global Environmental Change",
+    "ISBN":"",
+    "ISSN":"9593780",
+    "Url":"http://linkinghub.elsevier.com/retrieve/pii/S0959378015000102",
+    "Date":"2015-03",
+    "Pages":"154-162",
+    "Issue":"",
+    "Volume":31
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -23.508333,152.091667 ]
+    },
+    "properties": {
+    "DOI":"10.1016/j.margeo.2015.02.010",
+    "Publication Year":2015,
+    "Author":"Harris, D.L.; Vila-Concejo, A.; Webster, J.M.; Power, H.E.",
+    "Title":"Spatial variations in wave transformation and sediment entrainment on a coral reef sand apron",
+    "Publication Title":"Marine Geology",
+    "ISBN":"",
+    "ISSN":"253227",
+    "Url":"http://linkinghub.elsevier.com/retrieve/pii/S0025322715000468",
+    "Date":"2015-05",
+    "Pages":"220-229",
+    "Issue":"",
+    "Volume":363
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.7027364,9.9974433 ]
+    },
+    "properties": {
+    "DOI":"10.1016/j.marpol.2012.05.009",
+    "Publication Year":2013,
+    "Author":"Madrigal-Ballestero, Róger; Schlüter, Achim; Claudia Lopez, Maria",
+    "Title":"What makes them follow the rules? Empirical evidence from turtle egg harvesters in Costa Rica",
+    "Publication Title":"Marine Policy",
+    "ISBN":"",
+    "ISSN":"0308597X",
+    "Url":"http://linkinghub.elsevier.com/retrieve/pii/S0308597X12000978",
+    "Date":"2013-01",
+    "Pages":"270-277",
+    "Issue":"",
+    "Volume":37
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 119.2866667,-4.9669444 ]
+    },
+    "properties": {
+    "DOI":"10.1016/j.marpol.2016.04.006",
+    "Publication Year":2016,
+    "Author":"Miñarro, Sara; Navarrete Forero, Gabriela; Reuter, Hauke; van Putten, Ingrid E.",
+    "Title":"The role of patron-client relations on the fishing behaviour of artisanal fishermen in the Spermonde Archipelago (Indonesia)",
+    "Publication Title":"Marine Policy",
+    "ISBN":"",
+    "ISSN":"0308597X",
+    "Url":"http://linkinghub.elsevier.com/retrieve/pii/S0308597X16300574",
+    "Date":"2016-07",
+    "Pages":"73-83",
+    "Issue":"",
+    "Volume":69
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 110.7624435,19.4442556 ]
+    },
+    "properties": {
+    "DOI":"10.1016/j.marpolbul.2014.05.050",
+    "Publication Year":2014,
+    "Author":"Herbeck, Lucia S.; Sollich, Miriam; Unger, Daniela; Holmer, Marianne; Jennerjahn, Tim C.",
+    "Title":"Impact of pond aquaculture effluents on seagrass performance in NE Hainan, tropical China",
+    "Publication Title":"Marine Pollution Bulletin",
+    "ISBN":"",
+    "ISSN":"0025326X",
+    "Url":"http://linkinghub.elsevier.com/retrieve/pii/S0025326X14003415",
+    "Date":"2014-08",
+    "Pages":"190-203",
+    "Issue":"1",
+    "Volume":85
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.2,73.22 ]
+    },
+    "properties": {
+    "DOI":"10.1016/j.marpolbul.2015.06.050",
+    "Publication Year":2015,
+    "Author":"Morri, Carla; Montefalcone, Monica; Lasagna, Roberta; Gatti, Giulia; Rovere, Alessio; Parravicini, Valeriano; Baldelli, Giuseppe; Colantoni, Paolo; Bianchi, Carlo Nike",
+    "Title":"Through bleaching and tsunami: Coral reef recovery in the Maldives",
+    "Publication Title":"Marine Pollution Bulletin",
+    "ISBN":"",
+    "ISSN":"0025326X",
+    "Url":"http://linkinghub.elsevier.com/retrieve/pii/S0025326X15004178",
+    "Date":"2015-09",
+    "Pages":"188-200",
+    "Issue":"1-2",
+    "Volume":98
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.6841125,-5.8646712 ]
+    },
+    "properties": {
+    "DOI":"10.1016/j.marpolbul.2016.05.032",
+    "Publication Year":2016,
+    "Author":"Baum, Gunilla; Kusumanti, Ima; Breckwoldt, Annette; Ferse, Sebastian C.A.; Glaser, Marion; Dwiyitno; Adrianto, Luky; van der Wulp, Simon; Kunzmann, Andreas",
+    "Title":"Under pressure: Investigating marine resource-based livelihoods in Jakarta Bay and the Thousand Islands",
+    "Publication Title":"Marine Pollution Bulletin",
+    "ISBN":"",
+    "ISSN":"0025326X",
+    "Url":"http://linkinghub.elsevier.com/retrieve/pii/S0025326X16303344",
+    "Date":"2016-09",
+    "Pages":"778-789",
+    "Issue":"2",
+    "Volume":110
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.8228149,-6.0599894 ]
+    },
+    "properties": {
+    "DOI":"10.1016/j.marpolbul.2016.08.040",
+    "Publication Year":2016,
+    "Author":"Breckwoldt, Annette; Dsikowitzky, Larissa; Baum, Gunilla; Ferse, Sebastian C.A.; van der Wulp, Simon; Kusumanti, Ima; Ramadhan, Andrian; Adrianto, Luky",
+    "Title":"A review of stressors, uses and management perspectives for the larger Jakarta Bay Area, Indonesia",
+    "Publication Title":"Marine Pollution Bulletin",
+    "ISBN":"",
+    "ISSN":"0025326X",
+    "Url":"http://linkinghub.elsevier.com/retrieve/pii/S0025326X16306750",
+    "Date":"2016-09",
+    "Pages":"790-794",
+    "Issue":"2",
+    "Volume":110
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.9379883,33.8156663 ]
+    },
+    "properties": {
+    "DOI":"10.1016/j.ocecoaman.2015.06.022",
+    "Publication Year":2015,
+    "Author":"Partelow, Stefan; Boda, Chad",
+    "Title":"A modified diagnostic social-ecological system framework for lobster fisheries: Case implementation and sustainability assessment in Southern California",
+    "Publication Title":"Ocean & Coastal Management",
+    "ISBN":"",
+    "ISSN":"9645691",
+    "Url":"http://linkinghub.elsevier.com/retrieve/pii/S0964569115001751",
+    "Date":"2015-09",
+    "Pages":"204-217",
+    "Issue":"",
+    "Volume":114
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 119.3987274,-5.1415535 ]
+    },
+    "properties": {
+    "DOI":"10.1016/j.ocecoaman.2015.07.022",
+    "Publication Year":2015,
+    "Author":"Glaser, Marion; Breckwoldt, Annette; Deswandi, Rio; Radjawali, Irendra; Baitoningsih, Wasistini; Ferse, Sebastian C.A.",
+    "Title":"Of exploited reefs and fishers – A holistic view on participatory coastal and marine management in an Indonesian archipelago",
+    "Publication Title":"Ocean & Coastal Management",
+    "ISBN":"",
+    "ISSN":"9645691",
+    "Url":"http://linkinghub.elsevier.com/retrieve/pii/S0964569115002124",
+    "Date":"2015-11",
+    "Pages":"193-213",
+    "Issue":"",
+    "Volume":116
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 39.5397949,-4.434044 ]
+    },
+    "properties": {
+    "DOI":"10.1016/j.ocecoaman.2016.06.001",
+    "Publication Year":2016,
+    "Author":"Tuda, Paul M.; Wolff, Matthias; Breckwoldt, Annette",
+    "Title":"Size structure and gear selectivity of target species in the multispecies multigear fishery of the Kenyan South Coast",
+    "Publication Title":"Ocean & Coastal Management",
+    "ISBN":"",
+    "ISSN":"9645691",
+    "Url":"http://linkinghub.elsevier.com/retrieve/pii/S0964569116301107",
+    "Date":"2016-10",
+    "Pages":"95-106",
+    "Issue":"",
+    "Volume":130
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.040043,39.201759 ]
+    },
+    "properties": {
+    "DOI":"10.1016/j.quascirev.2015.03.016",
+    "Publication Year":2015,
+    "Author":"Antonioli, Fabrizio; Lo Presti, Valeria; Rovere, Alessio; Ferranti, Luigi; Anzidei, Marco; Furlani, Stefano; Mastronuzzi, Giuseppe; Orru, Paolo E.; Scicchitano, Giovanni; Sannino, Gianmaria; Spampinato, Cecilia R.; Pagliarulo, Rossella; Deiana, Giacomo; de Sabata, Eleonora; Sansò, Paolo; Vacchi, Matteo; Vecchio, Antonio",
+    "Title":"Tidal notches in Mediterranean Sea: a comprehensive analysis",
+    "Publication Title":"Quaternary Science Reviews",
+    "ISBN":"",
+    "ISSN":"2773791",
+    "Url":"http://linkinghub.elsevier.com/retrieve/pii/S0277379115001237",
+    "Date":"2015-07",
+    "Pages":"66-84",
+    "Issue":"",
+    "Volume":119
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.040043,39.201759 ]
+    },
+    "properties": {
+    "DOI":"10.1016/j.quascirev.2015.09.026",
+    "Publication Year":2016,
+    "Author":"Antonioli, Fabrizio; Presti, Valeria Lo; Rovere, Alessio; Ferranti, Luigi; Anzidei, Marco; Furlani, Stefano; Mastronuzzi, Giuseppe; Orrù, Paolo E.; Scicchitano, Giovanni; Sannino, Gianmaria; Spampinato, Cecilia R.; Pagliarulo, Rossella; Deiana, Giacomo; de Sabata, Eleonora; Sansò, Paolo; Vacchi, Matteo; Vecchio, Antonio",
+    "Title":"Reply to comment by Evelpidu N., and Pirazzoli P. on “Tidal notches in the Mediterranean sea: A comprehensive analysis”",
+    "Publication Title":"Quaternary Science Reviews",
+    "ISBN":"",
+    "ISSN":"2773791",
+    "Url":"http://linkinghub.elsevier.com/retrieve/pii/S0277379115301220",
+    "Date":"2016-01",
+    "Pages":"238-241",
+    "Issue":"",
+    "Volume":131
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -91.3602448,-0.3350811 ]
+    },
+    "properties": {
+    "DOI":"10.1016/j.seares.2011.05.006",
+    "Publication Year":2011,
+    "Author":"Ruiz, Diego J.; Wolff, Matthias",
+    "Title":"The Bolivar Channel Ecosystem of the Galapagos Marine Reserve: Energy flow structure and role of keystone groups",
+    "Publication Title":"Journal of Sea Research",
+    "ISBN":"",
+    "ISSN":"13851101",
+    "Url":"http://linkinghub.elsevier.com/retrieve/pii/S138511011100075X",
+    "Date":"2011-08",
+    "Pages":"123-134",
+    "Issue":"2",
+    "Volume":66
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -91.9054413,1.5337828 ]
+    },
+    "properties": {
+    "DOI":"10.1016/j.seares.2015.11.001",
+    "Publication Year":2016,
+    "Author":"Ruiz, Diego J.; Banks, Stuart; Wolff, Matthias",
+    "Title":"Elucidating fishing effects in a large-predator dominated system: The case of Darwin and Wolf Islands (Galápagos)",
+    "Publication Title":"Journal of Sea Research",
+    "ISBN":"",
+    "ISSN":"13851101",
+    "Url":"http://linkinghub.elsevier.com/retrieve/pii/S1385110115300459",
+    "Date":"2016-01",
+    "Pages":"1-11",
+    "Issue":"",
+    "Volume":107
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -18.286111,147.7 ]
+    },
+    "properties": {
+    "DOI":"10.1016/j.yqres.2015.11.002",
+    "Publication Year":2016,
+    "Author":"Dechnik, Belinda; Webster, Jody M.; Nothdurft, Luke; Webb, Gregory E.; Zhao, Jian-xin; Duce, Stephanie; Braga, Juan C.; Harris, Daniel L.; Vila-Concejo, Ana; Puotinen, Marji",
+    "Title":"Influence of hydrodynamic energy on Holocene reef flat accretion, Great Barrier Reef",
+    "Publication Title":"Quaternary Research",
+    "ISBN":"",
+    "ISSN":"335894",
+    "Url":"http://linkinghub.elsevier.com/retrieve/pii/S0033589415001106",
+    "Date":"2016-01",
+    "Pages":"44-53",
+    "Issue":"1",
+    "Volume":85
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.159744,8.322201 ]
+    },
+    "properties": {
+    "DOI":"10.1080/17445647.2014.933134",
+    "Publication Year":2015,
+    "Author":"Rovere, A.; Casella, E.; Vacchi, M.; Parravicini, V.; Firpo, M.; Ferrari, M.; Morri, C.; Bianchi, C.N.",
+    "Title":"Coastal and marine geomorphology between Albenga and Savona(NW Mediterranean Sea, Italy)",
+    "Publication Title":"Journal of Maps",
+    "ISBN":"",
+    "ISSN":"1744-5647",
+    "Url":"http://www.tandfonline.com/doi/full/10.1080/17445647.2014.933134",
+    "Date":"2015-03-15",
+    "Pages":"278-286",
+    "Issue":"2",
+    "Volume":11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -23.508333,152.091667 ]
+    },
+    "properties": {
+    "DOI":"10.1130/G35977.1",
+    "Publication Year":2015,
+    "Author":"Harris, D. L.; Webster, J. M.; Vila-Concejo, A.; Hua, Q.; Yokoyama, Y.; Reimer, P. J.",
+    "Title":"Late Holocene sea-level fall and turn-off of reef flat carbonate production: Rethinking bucket fill and coral reef growth models",
+    "Publication Title":"Geology",
+    "ISBN":"",
+    "ISSN":"0091-7613, 1943-2682",
+    "Url":"http://geology.gsapubs.org/cgi/doi/10.1130/G35977.1",
+    "Date":"2015-02-01",
+    "Pages":"175-178",
+    "Issue":"2",
+    "Volume":43
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.13384,9.635477 ]
+    },
+    "properties": {
+    "DOI":"10.1371/journal.pone.0118581",
+    "Publication Year":2015,
+    "Author":"Gatti, Giulia; Bianchi, Carlo Nike; Parravicini, Valeriano; Rovere, Alessio; Peirano, Andrea; Montefalcone, Monica; Massa, Francesco; Morri, Carla",
+    "Title":"Ecological Change, Sliding Baselines and the Importance of Historical Data: Lessons from Combing Observational and Quantitative Data on a Temperate Reef Over 70 Years",
+    "Publication Title":"PLOS ONE",
+    "ISBN":"",
+    "ISSN":"1932-6203",
+    "Url":"http://dx.plos.org/10.1371/journal.pone.0118581",
+    "Date":"2015-02-25",
+    "Pages":"e0118581",
+    "Issue":"2",
+    "Volume":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.3256855,10.979743 ]
+    },
+    "properties": {
+    "DOI":"10.18352/ijc.623",
+    "Publication Year":2016,
+    "Author":"",
+    "Title":"Collective action in a tropical estuarine lagoon: adapting Ostrom’s SES framework to Ciénaga Grande de Santa Marta, Colombia",
+    "Publication Title":"International Journal of the Commons",
+    "ISBN":"",
+    "ISSN":"1875-0281",
+    "Url":"https://www.thecommonsjournal.org/articles/10.18352/ijc.623",
+    "Date":"2016-02",
+    "Pages":"334-362",
+    "Issue":"1",
+    "Volume":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -91.3485718,-0.3549935 ]
+    },
+    "properties": {
+    "DOI":"10.3354/meps09542",
+    "Publication Year":2012,
+    "Author":"Wolff, M; Ruiz, Dj; Taylor, M",
+    "Title":"El Niño induced changes to the Bolivar Channel ecosystem (Galapagos): comparing model simulations with historical biomass time series",
+    "Publication Title":"Marine Ecology Progress Series",
+    "ISBN":"",
+    "ISSN":"0171-8630, 1616-1599",
+    "Url":"http://www.int-res.com/abstracts/meps/v448/p7-22/",
+    "Date":"2012-02-23",
+    "Pages":"7-22",
+    "Issue":"",
+    "Volume":448
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.3240118,10.9797641 ]
+    },
+    "properties": {
+    "DOI":"10.3390/su8060549",
+    "Publication Year":2016,
+    "Author":"Torres-Guevara, Luz; Lopez, Maria; Schlüter, Achim",
+    "Title":"Understanding Artisanal Fishers’ Behaviors: The Case of Ciénaga Grande de Santa Marta, Colombia",
+    "Publication Title":"Sustainability",
+    "ISBN":"",
+    "ISSN":"2071-1050",
+    "Url":"http://www.mdpi.com/2071-1050/8/6/549",
+    "Date":"2016-06-13",
+    "Pages":"549",
+    "Issue":"6",
+    "Volume":8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 39.4189453,-5.7471741 ]
+    },
+    "properties": {
+    "DOI":"10.5897/JDAE2016.0727",
+    "Publication Year":2016,
+    "Author":"John, Sebit Benansio; Mathias, Wolff; Annette, Breckwoldt; Narriman, Jiddawi",
+    "Title":"Have the fishing communities of Zanzibar Island benefited from increasing tourism development?",
+    "Publication Title":"Journal of Development and Agricultural Economics",
+    "ISBN":"",
+    "ISSN":"2006-9774",
+    "Url":"http://academicjournals.org/journal/JDAE/article-abstract/14F8D2C58178",
+    "Date":"2016-05-31",
+    "Pages":"95-107",
+    "Issue":"5",
+    "Volume":8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 178.3987427,-18.1249706 ]
+    },
+    "properties": {
+    "DOI":"",
+    "Publication Year":2016,
+    "Author":"Bianchi, Carlo Nike; Morri, Carla; Lasagna, Roberta; Montefalcone, Monica; Gatti, Giulia; Parravicini, Valeriano; Rovere, Alessio",
+    "Title":"Resilience of the Marine Animal Forest",
+    "Publication Title":"Marine Animal Forests",
+    "ISBN":"978-3-319-17001-5",
+    "ISSN":"",
+    "Url":"http://link.springer.com/10.1007/978-3-319-17001-5_35-1",
+    "Date":"2016",
+    "Pages":"1-30",
+    "Issue":"",
+    "Volume":null
+    }
+  }
+]
+}
