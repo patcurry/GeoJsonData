@@ -572,7 +572,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -23.508333,152.091667 ]
+       "coordinates":  [ 152.091667,-23.508333 ]
     },
     "properties": {
     "DOI":"10.1130/G35977.1",
