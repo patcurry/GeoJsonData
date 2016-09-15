@@ -530,7 +530,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -18.286111,147.7 ]
+       "coordinates":  [  147.7,-18.286111 ]
     },
     "properties": {
     "DOI":"10.1016/j.yqres.2015.11.002",
