@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "island": "oahu",
+        "largest-city": "honolulu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.950439453125,
+          21.468405577312012
+        ]
+      }
+    }
+  ]
+}
