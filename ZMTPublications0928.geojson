@@ -5,220 +5,100 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 14.4919163,22.9528082 ]
+       "coordinates":  [ 152.091667,-23.508333 ]
     },
     "properties": {
-    "Title":"Energy demand of larval and juvenile Cape horse mackerels, Trachurus capensis, and indications of hypoxia tolerance as benefit in a changing environment",
-    "Publication Year":2013,
-    "Author":"Geist, Simon Joscha; Ekau, Werner; Kunzmann, Andreas",
-    "Publication Title":"Marine Biology",
-    "Pages":"3221-3232",
-    "Num Pages":"",
-    "Issue":"12",
-    "Volume":160,
-    "ISBN":"",
-    "ISSN":"0025-3162, 1432-1793",
-    "DOI":"10.1007/s00227-013-2309-2"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -80.042297,19.688472 ]
-    },
-    "properties": {
-    "Title":"Relationships of invasive lionfish with topographic complexity, groupers, and native prey fishes in Little Cayman",
-    "Publication Year":2015,
-    "Author":"Bejarano, Sonia; Lohr, Kathryn; Hamilton, Samantha; Manfrino, Carrie",
-    "Publication Title":"Marine Biology",
-    "Pages":"253-266",
-    "Num Pages":"",
-    "Issue":"2",
-    "Volume":162,
-    "ISBN":"",
-    "ISSN":"0025-3162, 1432-1793",
-    "DOI":"10.1007/s00227-014-2595-3"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 115.9928097,-8.5830145 ]
-    },
-    "properties": {
-    "Title":"Effects of thermal stress on the immune and oxidative stress responses of juvenile sea cucumber Holothuria scabra",
+    "Title":"Geomorphic changes of a coral shingle cay measured using Kite Aerial Photography",
     "Publication Year":2016,
-    "Author":"Kamyab, Elham; Kühnhold, Holger; Novais, Sara C.; Alves, Luís M. F.; Indriana, Lisa; Kunzmann, Andreas; Slater, Matthew; Lemos, Marco F. L.",
-    "Publication Title":"Journal of Comparative Physiology B",
-    "Pages":"",
+    "Author":"Bryson, Mitch; Duce, Stephanie; Harris, Dan; Webster, Jody M.; Thompson, Alisha; Vila-Concejo, Ana; Williams, Stefan B.",
+    "Publication Title":"Geomorphology",
+    "Pages":"1-8",
     "Num Pages":"",
     "Issue":"",
-    "Volume":null,
+    "Volume":270,
     "ISBN":"",
-    "ISSN":"0174-1578, 1432-136X",
-    "DOI":"10.1007/s00360-016-1015-z"
+    "ISSN":"0169555X",
+    "DOI":"10.1016/j.geomorph.2016.06.018"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 44.1,8.233333 ]
+       "coordinates":  [ 152.091667,-23.508333 ]
     },
     "properties": {
-    "Title":"Drones as tools for monitoring beach topography changes in the Ligurian Sea (NW Mediterranean)",
-    "Publication Year":2016,
-    "Author":"Casella, Elisa; Rovere, Alessio; Pedroncini, Andrea; Stark, Colin P.; Casella, Marco; Ferrari, Marco; Firpo, Marco",
-    "Publication Title":"Geo-Marine Letters",
-    "Pages":"151-163",
+    "Title":"Spatial variations in wave transformation and sediment entrainment on a coral reef sand apron",
+    "Publication Year":2015,
+    "Author":"Harris, D.L.; Vila-Concejo, A.; Webster, J.M.; Power, H.E.",
+    "Publication Title":"Marine Geology",
+    "Pages":"220-229",
+    "Num Pages":"",
+    "Issue":"",
+    "Volume":363,
+    "ISBN":"",
+    "ISSN":"253227",
+    "DOI":"10.1016/j.margeo.2015.02.010"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 152.091667,-23.508333 ]
+    },
+    "properties": {
+    "Title":"Late Holocene sea-level fall and turn-off of reef flat carbonate production: Rethinking bucket fill and coral reef growth models",
+    "Publication Year":2015,
+    "Author":"Harris, D. L.; Webster, J. M.; Vila-Concejo, A.; Hua, Q.; Yokoyama, Y.; Reimer, P. J.",
+    "Publication Title":"Geology",
+    "Pages":"175-178",
     "Num Pages":"",
     "Issue":"2",
-    "Volume":36,
+    "Volume":43,
     "ISBN":"",
-    "ISSN":"0276-0460, 1432-1157",
-    "DOI":"10.1007/s00367-016-0435-9"
+    "ISSN":"0091-7613, 1943-2682",
+    "DOI":"10.1130/G35977.1"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 109.6820068,-7.3352267 ]
+       "coordinates":  [ 148.064806,-19.1274323 ]
     },
     "properties": {
-    "Title":"Submarine groundwater discharge from tropical islands: a review",
-    "Publication Year":2015,
-    "Author":"Moosdorf, Nils; Stieglitz, Thomas; Waska, Hannelore; Dürr, Hans H.; Hartmann, Jens",
-    "Publication Title":"Grundwasser",
-    "Pages":"53-67",
+    "Title":"Effects of High Dissolved Inorganic and Organic Carbon Availability on the Physiology of the Hard Coral Acropora millepora from the Great Barrier Reef",
+    "Publication Year":2016,
+    "Author":"Meyer, Friedrich W.; Vogel, Nikolas; Diele, Karen; Kunzmann, Andreas; Uthicke, Sven; Wild, Christian",
+    "Publication Title":"PLOS ONE",
+    "Pages":"e0149598",
+    "Num Pages":"",
+    "Issue":"3",
+    "Volume":11,
+    "ISBN":"",
+    "ISSN":"1932-6203",
+    "DOI":"10.1371/journal.pone.0149598"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 147.7,-18.286111 ]
+    },
+    "properties": {
+    "Title":"Influence of hydrodynamic energy on Holocene reef flat accretion, Great Barrier Reef",
+    "Publication Year":2016,
+    "Author":"Dechnik, Belinda; Webster, Jody M.; Nothdurft, Luke; Webb, Gregory E.; Zhao, Jian-xin; Duce, Stephanie; Braga, Juan C.; Harris, Daniel L.; Vila-Concejo, Ana; Puotinen, Marji",
+    "Publication Title":"Quaternary Research",
+    "Pages":"44-53",
     "Num Pages":"",
     "Issue":"1",
-    "Volume":20,
+    "Volume":85,
     "ISBN":"",
-    "ISSN":"1430-483X, 1432-1165",
-    "DOI":"10.1007/s00767-014-0275-3"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 29.455166,34.971672 ]
-    },
-    "properties": {
-    "Title":"Budget of Primary Production and Dinitrogen Fixation in a Highly Seasonal Red Sea Coral Reef",
-    "Publication Year":2016,
-    "Author":"Cardini, Ulisse; Bednarz, Vanessa N.; van Hoytema, Nanne; Rovere, Alessio; Naumann, Malik S.; Al-Rshaidat, Mamoon M. D.; Wild, Christian",
-    "Publication Title":"Ecosystems",
-    "Pages":"771-785",
-    "Num Pages":"",
-    "Issue":"5",
-    "Volume":19,
-    "ISBN":"",
-    "ISSN":"1432-9840, 1435-0629",
-    "DOI":"10.1007/s10021-016-9966-1"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -80.9,-5.6 ]
-    },
-    "properties": {
-    "Title":"Trophic and environmental drivers of the Sechura Bay Ecosystem (Peru) over an ENSO cycle",
-    "Publication Year":2008,
-    "Author":"Taylor, Marc H.; Wolff, Matthias; Vadas, Flora; Yamashiro, Carmen",
-    "Publication Title":"Helgoland Marine Research",
-    "Pages":"15-32",
-    "Num Pages":"",
-    "Issue":"S1",
-    "Volume":62,
-    "ISBN":"",
-    "ISSN":"1438-387X, 1438-3888",
-    "DOI":"10.1007/s10152-007-0093-4"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 109.1707299,12.2595881 ]
-    },
-    "properties": {
-    "Title":"The sediment load and deposition by river discharge and their relation to organochlorine pesticides pollutants in the sediment bottom of Nha Trang Bay, Vietnam",
-    "Publication Year":2015,
-    "Author":"Du, Hoang Trung; Kunzmann, Andreas",
-    "Publication Title":"Ocean Science Journal",
-    "Pages":"455-466",
-    "Num Pages":"",
-    "Issue":"2",
-    "Volume":50,
-    "ISBN":"",
-    "ISSN":"1738-5261, 2005-7172",
-    "DOI":"10.1007/s12601-015-0041-1"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -112.035833,24.770556 ]
-    },
-    "properties": {
-    "Title":"Evaluation of different shallow water culture methods for the scallop Nodipecten subnodosus using biologic and economic modeling",
-    "Publication Year":2006,
-    "Author":"Taylor, Marc H.; Koch, Volker; Wolff, Matthias; Sínsel, Francisco",
-    "Publication Title":"Aquaculture",
-    "Pages":"301-316",
-    "Num Pages":"",
-    "Issue":"1-4",
-    "Volume":254,
-    "ISBN":"",
-    "ISSN":"448486",
-    "DOI":"10.1016/j.aquaculture.2005.10.048"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 8.5962049,53.1201749 ]
-    },
-    "properties": {
-    "Title":"Functionalised ceramic spawning tiles with probiotic Pseudoalteromonas biofilms designed for clownfish aquaculture",
-    "Publication Year":2015,
-    "Author":"Wesseling, Wiebke; Wittka, Sabine; Kroll, Stephen; Soltmann, Christian; Kegler, Pia; Kunzmann, Andreas; Riss, Hans Wolfgang; Lohmeyer, Michael",
-    "Publication Title":"Aquaculture",
-    "Pages":"57-66",
-    "Num Pages":"",
-    "Issue":"",
-    "Volume":446,
-    "ISBN":"",
-    "ISSN":"448486",
-    "DOI":"10.1016/j.aquaculture.2015.04.017"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -9.402724,39.3372403 ]
-    },
-    "properties": {
-    "Title":"Thermal stress effects on energy resource allocation and oxygen consumption rate in the juvenile sea cucumber, Holothuria scabra (Jaeger, 1833)",
-    "Publication Year":2016,
-    "Author":"Kühnhold, Holger; Kamyab, Elham; Novais, Sara; Indriana, Lisa; Kunzmann, Andreas; Slater, Matthew; Lemos, Marco",
-    "Publication Title":"Aquaculture",
-    "Pages":"",
-    "Num Pages":"",
-    "Issue":"",
-    "Volume":null,
-    "ISBN":"",
-    "ISSN":"448486",
-    "DOI":"10.1016/j.aquaculture.2016.03.018"
+    "ISSN":"335894",
+    "DOI":"10.1016/j.yqres.2015.11.002"
     }
   },
   {
@@ -245,320 +125,120 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 110.8407211,19.536173 ]
+       "coordinates":  [ 178.3987427,-18.1249706 ]
     },
     "properties": {
-    "Title":"Effluent, nutrient and organic matter export from shrimp and fish ponds causing eutrophication in coastal and back-reef waters of NE Hainan, tropical China",
-    "Publication Year":2013,
-    "Author":"Herbeck, Lucia S.; Unger, Daniela; Wu, Ying; Jennerjahn, Tim C.",
-    "Publication Title":"Continental Shelf Research",
-    "Pages":"92-104",
+    "Title":"Resilience of the Marine Animal Forest",
+    "Publication Year":2016,
+    "Author":"Bianchi, Carlo Nike; Morri, Carla; Lasagna, Roberta; Montefalcone, Monica; Gatti, Giulia; Parravicini, Valeriano; Rovere, Alessio",
+    "Publication Title":"Marine Animal Forests",
+    "Pages":"1-30",
     "Num Pages":"",
     "Issue":"",
-    "Volume":57,
-    "ISBN":"",
-    "ISSN":"2784343",
-    "DOI":"10.1016/j.csr.2012.05.006"
+    "Volume":null,
+    "ISBN":"978-3-319-17001-5",
+    "ISSN":"",
+    "DOI":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -79.67022,34.873511 ]
+       "coordinates":  [ -76.194,-14.238 ]
     },
     "properties": {
-    "Title":"Mid-Pliocene shorelines of the US Atlantic Coastal Plain — An improved elevation database with comparison to Earth model predictions",
+    "Title":"Changes in trophic flow structure of Independence Bay (Peru) over an ENSO cycle",
+    "Publication Year":2008,
+    "Author":"Taylor, Marc H.; Wolff, Matthias; Mendo, Jaime; Yamashiro, Carmen",
+    "Publication Title":"Progress in Oceanography",
+    "Pages":"336-351",
+    "Num Pages":"",
+    "Issue":"2-4",
+    "Volume":79,
+    "ISBN":"",
+    "ISSN":"796611",
+    "DOI":"10.1016/j.pocean.2008.10.006"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.9928097,-8.5830145 ]
+    },
+    "properties": {
+    "Title":"Effects of thermal stress on the immune and oxidative stress responses of juvenile sea cucumber Holothuria scabra",
+    "Publication Year":2016,
+    "Author":"Kamyab, Elham; Kühnhold, Holger; Novais, Sara C.; Alves, Luís M. F.; Indriana, Lisa; Kunzmann, Andreas; Slater, Matthew; Lemos, Marco F. L.",
+    "Publication Title":"Journal of Comparative Physiology B",
+    "Pages":"",
+    "Num Pages":"",
+    "Issue":"",
+    "Volume":null,
+    "ISBN":"",
+    "ISSN":"0174-1578, 1432-136X",
+    "DOI":"10.1007/s00360-016-1015-z"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 109.6820068,-7.3352267 ]
+    },
+    "properties": {
+    "Title":"Submarine groundwater discharge from tropical islands: a review",
     "Publication Year":2015,
-    "Author":"Rovere, A.; Hearty, P.J.; Austermann, J.; Mitrovica, J.X.; Gale, J.; Moucha, R.; Forte, A.M.; Raymo, M.E.",
-    "Publication Title":"Earth-Science Reviews",
-    "Pages":"117-131",
-    "Num Pages":"",
-    "Issue":"",
-    "Volume":145,
-    "ISBN":"",
-    "ISSN":"128252",
-    "DOI":"10.1016/j.earscirev.2015.02.007"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -74.3275523,10.9795113 ]
-    },
-    "properties": {
-    "Title":"External validity of artefactual field experiments: A study on cooperation, impatience and sustainability in an artisanal fishery in Colombia",
-    "Publication Year":2016,
-    "Author":"Torres-Guevara, Luz Elba; Schlüter, Achim",
-    "Publication Title":"Ecological Economics",
-    "Pages":"187-201",
-    "Num Pages":"",
-    "Issue":"",
-    "Volume":128,
-    "ISBN":"",
-    "ISSN":"9218009",
-    "DOI":"10.1016/j.ecolecon.2016.04.022"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -80.9,-5.6 ]
-    },
-    "properties": {
-    "Title":"Carrying capacity simulations as a tool for ecosystem-based management of a scallop aquaculture system",
-    "Publication Year":2016,
-    "Author":"Kluger, Lotta C.; Taylor, Marc H.; Mendo, Jaime; Tam, Jorge; Wolff, Matthias",
-    "Publication Title":"Ecological Modelling",
-    "Pages":"44-55",
-    "Num Pages":"",
-    "Issue":"",
-    "Volume":331,
-    "ISBN":"",
-    "ISSN":"3043800",
-    "DOI":"10.1016/j.ecolmodel.2015.09.002"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 44.114427,8.247597 ]
-    },
-    "properties": {
-    "Title":"Study of wave runup using numerical models and low-altitude aerial photogrammetry: A tool for coastal management",
-    "Publication Year":2014,
-    "Author":"Casella, Elisa; Rovere, Alessio; Pedroncini, Andrea; Mucerino, Luigi; Casella, Marco; Cusati, Luis Alberto; Vacchi, Matteo; Ferrari, Marco; Firpo, Marco",
-    "Publication Title":"Estuarine, Coastal and Shelf Science",
-    "Pages":"160-167",
-    "Num Pages":"",
-    "Issue":"",
-    "Volume":149,
-    "ISBN":"",
-    "ISSN":"2727714",
-    "DOI":"10.1016/j.ecss.2014.08.012"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 119.299896,-4.874498 ]
-    },
-    "properties": {
-    "Title":"The magnitude of a mid-Holocene sea-level highstand in the Strait of Makassar",
-    "Publication Year":2016,
-    "Author":"Mann, Thomas; Rovere, Alessio; Schöne, Tilo; Klicpera, André; Stocchi, Paolo; Lukman, Muhammad; Westphal, Hildegard",
-    "Publication Title":"Geomorphology",
-    "Pages":"155-163",
-    "Num Pages":"",
-    "Issue":"",
-    "Volume":257,
-    "ISBN":"",
-    "ISSN":"0169555X",
-    "DOI":"10.1016/j.geomorph.2015.12.023"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -23.508333,152.091667 ]
-    },
-    "properties": {
-    "Title":"Geomorphic changes of a coral shingle cay measured using Kite Aerial Photography",
-    "Publication Year":2016,
-    "Author":"Bryson, Mitch; Duce, Stephanie; Harris, Dan; Webster, Jody M.; Thompson, Alisha; Vila-Concejo, Ana; Williams, Stefan B.",
-    "Publication Title":"Geomorphology",
-    "Pages":"1-8",
-    "Num Pages":"",
-    "Issue":"",
-    "Volume":270,
-    "ISBN":"",
-    "ISSN":"0169555X",
-    "DOI":"10.1016/j.geomorph.2016.06.018"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -83.7444878,9.1648062 ]
-    },
-    "properties": {
-    "Title":"Can institutional change theories contribute to the understanding of marine protected areas?",
-    "Publication Year":2015,
-    "Author":"Weber de Morais, Gabriela; Schlüter, Achim; Verweij, Marco",
-    "Publication Title":"Global Environmental Change",
-    "Pages":"154-162",
-    "Num Pages":"",
-    "Issue":"",
-    "Volume":31,
-    "ISBN":"",
-    "ISSN":"9593780",
-    "DOI":"10.1016/j.gloenvcha.2015.01.008"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 152.091667,-23.508333]
-    },
-    "properties": {
-    "Title":"Spatial variations in wave transformation and sediment entrainment on a coral reef sand apron",
-    "Publication Year":2015,
-    "Author":"Harris, D.L.; Vila-Concejo, A.; Webster, J.M.; Power, H.E.",
-    "Publication Title":"Marine Geology",
-    "Pages":"220-229",
-    "Num Pages":"",
-    "Issue":"",
-    "Volume":363,
-    "ISBN":"",
-    "ISSN":"253227",
-    "DOI":"10.1016/j.margeo.2015.02.010"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -85.7027364,9.9974433 ]
-    },
-    "properties": {
-    "Title":"What makes them follow the rules? Empirical evidence from turtle egg harvesters in Costa Rica",
-    "Publication Year":2013,
-    "Author":"Madrigal-Ballestero, Róger; Schlüter, Achim; Claudia Lopez, Maria",
-    "Publication Title":"Marine Policy",
-    "Pages":"270-277",
-    "Num Pages":"",
-    "Issue":"",
-    "Volume":37,
-    "ISBN":"",
-    "ISSN":"0308597X",
-    "DOI":"10.1016/j.marpol.2012.05.009"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 119.2866667,-4.9669444 ]
-    },
-    "properties": {
-    "Title":"The role of patron-client relations on the fishing behaviour of artisanal fishermen in the Spermonde Archipelago (Indonesia)",
-    "Publication Year":2016,
-    "Author":"Miñarro, Sara; Navarrete Forero, Gabriela; Reuter, Hauke; van Putten, Ingrid E.",
-    "Publication Title":"Marine Policy",
-    "Pages":"73-83",
-    "Num Pages":"",
-    "Issue":"",
-    "Volume":69,
-    "ISBN":"",
-    "ISSN":"0308597X",
-    "DOI":"10.1016/j.marpol.2016.04.006"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 110.7624435,19.4442556 ]
-    },
-    "properties": {
-    "Title":"Impact of pond aquaculture effluents on seagrass performance in NE Hainan, tropical China",
-    "Publication Year":2014,
-    "Author":"Herbeck, Lucia S.; Sollich, Miriam; Unger, Daniela; Holmer, Marianne; Jennerjahn, Tim C.",
-    "Publication Title":"Marine Pollution Bulletin",
-    "Pages":"190-203",
+    "Author":"Moosdorf, Nils; Stieglitz, Thomas; Waska, Hannelore; Dürr, Hans H.; Hartmann, Jens",
+    "Publication Title":"Grundwasser",
+    "Pages":"53-67",
     "Num Pages":"",
     "Issue":"1",
-    "Volume":85,
+    "Volume":20,
     "ISBN":"",
-    "ISSN":"0025326X",
-    "DOI":"10.1016/j.marpolbul.2014.05.050"
+    "ISSN":"1430-483X, 1432-1165",
+    "DOI":"10.1007/s00767-014-0275-3"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 73.22,3.2 ]
+       "coordinates":  [ 39.2178755,-6.2171162 ]
     },
     "properties": {
-    "Title":"Through bleaching and tsunami: Coral reef recovery in the Maldives",
-    "Publication Year":2015,
-    "Author":"Morri, Carla; Montefalcone, Monica; Lasagna, Roberta; Gatti, Giulia; Rovere, Alessio; Parravicini, Valeriano; Baldelli, Giuseppe; Colantoni, Paolo; Bianchi, Carlo Nike",
-    "Publication Title":"Marine Pollution Bulletin",
-    "Pages":"188-200",
-    "Num Pages":"",
-    "Issue":"1-2",
-    "Volume":98,
-    "ISBN":"",
-    "ISSN":"0025326X",
-    "DOI":"10.1016/j.marpolbul.2015.06.050"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 106.6841125,-5.8646712 ]
-    },
-    "properties": {
-    "Title":"Under pressure: Investigating marine resource-based livelihoods in Jakarta Bay and the Thousand Islands",
+    "Title":"Co-culture of sea cucumber <i>Holothuria scabra</i> and red seaweed <i>Kappaphycus striatum</i>",
     "Publication Year":2016,
-    "Author":"Baum, Gunilla; Kusumanti, Ima; Breckwoldt, Annette; Ferse, Sebastian C.A.; Glaser, Marion; Dwiyitno; Adrianto, Luky; van der Wulp, Simon; Kunzmann, Andreas",
-    "Publication Title":"Marine Pollution Bulletin",
-    "Pages":"778-789",
+    "Author":"Beltran-Gutierrez, Marisol; Ferse, Sebastian CA; Kunzmann, Andreas; Stead, Selina M; Msuya, Flower E; Hoffmeister, Thomas S; Slater, Matthew J",
+    "Publication Title":"Aquaculture Research",
+    "Pages":"1549-1559",
     "Num Pages":"",
-    "Issue":"2",
-    "Volume":110,
+    "Issue":"5",
+    "Volume":47,
     "ISBN":"",
-    "ISSN":"0025326X",
-    "DOI":"10.1016/j.marpolbul.2016.05.032"
+    "ISSN":"1355557X",
+    "DOI":"10.1111/are.12615"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 106.7651548,-6.03581 ]
+       "coordinates":  [ 39.2178755,-6.2171162 ]
     },
     "properties": {
-    "Title":"Under pressure: Investigating marine resource-based livelihoods in Jakarta Bay and the Thousand Islands",
+    "Title":"Growth performance of the sea cucumber Holothuria scabra and the seaweed Eucheuma denticulatum: integrated mariculture and effects on sediment organic characteristics",
     "Publication Year":2016,
-    "Author":"Baum, Gunilla; Kusumanti, Ima; Breckwoldt, Annette; Ferse, Sebastian C.A.; Glaser, Marion; Dwiyitno; Adrianto, Luky; van der Wulp, Simon; Kunzmann, Andreas",
-    "Publication Title":"Marine Pollution Bulletin",
-    "Pages":"778-789",
+    "Author":"Namukose, M; Msuya, Fe; Ferse, Sca; Slater, Mj; Kunzmann, A",
+    "Publication Title":"Aquaculture Environment Interactions",
+    "Pages":"179-189",
     "Num Pages":"",
-    "Issue":"2",
-    "Volume":110,
+    "Issue":"",
+    "Volume":8,
     "ISBN":"",
-    "ISSN":"0025326X",
-    "DOI":"10.1016/j.marpolbul.2016.05.032"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 55.6271573,27.0226635 ]
-    },
-    "properties": {
-    "Title":"Baseline of polycyclic aromatic hydrocarbons in the surface sediment and sea cucumbers (Holothuria leucospilota and Stichopus hermanni) in the northern parts of Persian Gulf",
-    "Publication Year":2016,
-    "Author":"Khazaali, Aida; Kunzmann, Andreas; Bastami, Kazem Darvish; Baniamam, Mehrnaz",
-    "Publication Title":"Marine Pollution Bulletin",
-    "Pages":"539-545",
-    "Num Pages":"",
-    "Issue":"1",
-    "Volume":110,
-    "ISBN":"",
-    "ISSN":"0025326X",
-    "DOI":"10.1016/j.marpolbul.2016.05.039"
+    "ISSN":"1869-215X, 1869-7534",
+    "DOI":"10.3354/aei00172"
     }
   },
   {
@@ -585,20 +265,140 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -118.9379883,33.8156663 ]
+       "coordinates":  [ 106.7651548,-6.03581 ]
     },
     "properties": {
-    "Title":"A modified diagnostic social-ecological system framework for lobster fisheries: Case implementation and sustainability assessment in Southern California",
+    "Title":"Under pressure: Investigating marine resource-based livelihoods in Jakarta Bay and the Thousand Islands",
+    "Publication Year":2016,
+    "Author":"Baum, Gunilla; Kusumanti, Ima; Breckwoldt, Annette; Ferse, Sebastian C.A.; Glaser, Marion; Dwiyitno; Adrianto, Luky; van der Wulp, Simon; Kunzmann, Andreas",
+    "Publication Title":"Marine Pollution Bulletin",
+    "Pages":"778-789",
+    "Num Pages":"",
+    "Issue":"2",
+    "Volume":110,
+    "ISBN":"",
+    "ISSN":"0025326X",
+    "DOI":"10.1016/j.marpolbul.2016.05.032"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.7651548,-6.03581 ]
+    },
+    "properties": {
+    "Title":"Local and Regional Impacts of Pollution on Coral Reefs along the Thousand Islands North of the Megacity Jakarta, Indonesia",
     "Publication Year":2015,
-    "Author":"Partelow, Stefan; Boda, Chad",
-    "Publication Title":"Ocean & Coastal Management",
-    "Pages":"204-217",
+    "Author":"Baum, Gunilla; Januar, Hedi I.; Ferse, Sebastian C. A.; Kunzmann, Andreas",
+    "Publication Title":"PLOS ONE",
+    "Pages":"e0138271",
+    "Num Pages":"",
+    "Issue":"9",
+    "Volume":10,
+    "ISBN":"",
+    "ISSN":"1932-6203",
+    "DOI":"10.1371/journal.pone.0138271"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.6841125,-5.8646712 ]
+    },
+    "properties": {
+    "Title":"Under pressure: Investigating marine resource-based livelihoods in Jakarta Bay and the Thousand Islands",
+    "Publication Year":2016,
+    "Author":"Baum, Gunilla; Kusumanti, Ima; Breckwoldt, Annette; Ferse, Sebastian C.A.; Glaser, Marion; Dwiyitno; Adrianto, Luky; van der Wulp, Simon; Kunzmann, Andreas",
+    "Publication Title":"Marine Pollution Bulletin",
+    "Pages":"778-789",
+    "Num Pages":"",
+    "Issue":"2",
+    "Volume":110,
+    "ISBN":"",
+    "ISSN":"0025326X",
+    "DOI":"10.1016/j.marpolbul.2016.05.032"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 39.4189453,-5.7471741 ]
+    },
+    "properties": {
+    "Title":"Have the fishing communities of Zanzibar Island benefited from increasing tourism development?",
+    "Publication Year":2016,
+    "Author":"John, Sebit Benansio; Mathias, Wolff; Annette, Breckwoldt; Narriman, Jiddawi",
+    "Publication Title":"Journal of Development and Agricultural Economics",
+    "Pages":"95-107",
+    "Num Pages":"",
+    "Issue":"5",
+    "Volume":8,
+    "ISBN":"",
+    "ISSN":"2006-9774",
+    "DOI":"10.5897/JDAE2016.0727"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.9,-5.6 ]
+    },
+    "properties": {
+    "Title":"Trophic and environmental drivers of the Sechura Bay Ecosystem (Peru) over an ENSO cycle",
+    "Publication Year":2008,
+    "Author":"Taylor, Marc H.; Wolff, Matthias; Vadas, Flora; Yamashiro, Carmen",
+    "Publication Title":"Helgoland Marine Research",
+    "Pages":"15-32",
+    "Num Pages":"",
+    "Issue":"S1",
+    "Volume":62,
+    "ISBN":"",
+    "ISSN":"1438-387X, 1438-3888",
+    "DOI":"10.1007/s10152-007-0093-4"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.9,-5.6 ]
+    },
+    "properties": {
+    "Title":"Carrying capacity simulations as a tool for ecosystem-based management of a scallop aquaculture system",
+    "Publication Year":2016,
+    "Author":"Kluger, Lotta C.; Taylor, Marc H.; Mendo, Jaime; Tam, Jorge; Wolff, Matthias",
+    "Publication Title":"Ecological Modelling",
+    "Pages":"44-55",
     "Num Pages":"",
     "Issue":"",
-    "Volume":114,
+    "Volume":331,
     "ISBN":"",
-    "ISSN":"9645691",
-    "DOI":"10.1016/j.ocecoaman.2015.06.022"
+    "ISSN":"3043800",
+    "DOI":"10.1016/j.ecolmodel.2015.09.002"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.9,-5.6 ]
+    },
+    "properties": {
+    "Title":"Assessing the ecosystem impact of scallop bottom culture through a community analysis and trophic modelling approach",
+    "Publication Year":2016,
+    "Author":"Kluger, Lc; Taylor, Mh; Barriga Rivera, E; Torres Silva, E; Wolff, M",
+    "Publication Title":"Marine Ecology Progress Series",
+    "Pages":"121-135",
+    "Num Pages":"",
+    "Issue":"",
+    "Volume":547,
+    "ISBN":"",
+    "ISSN":"0171-8630, 1616-1599",
+    "DOI":"10.3354/meps11652"
     }
   },
   {
@@ -625,6 +425,46 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
+       "coordinates":  [ 119.2866667,-4.9669444 ]
+    },
+    "properties": {
+    "Title":"The role of patron-client relations on the fishing behaviour of artisanal fishermen in the Spermonde Archipelago (Indonesia)",
+    "Publication Year":2016,
+    "Author":"Miñarro, Sara; Navarrete Forero, Gabriela; Reuter, Hauke; van Putten, Ingrid E.",
+    "Publication Title":"Marine Policy",
+    "Pages":"73-83",
+    "Num Pages":"",
+    "Issue":"",
+    "Volume":69,
+    "ISBN":"",
+    "ISSN":"0308597X",
+    "DOI":"10.1016/j.marpol.2016.04.006"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 119.299896,-4.874498 ]
+    },
+    "properties": {
+    "Title":"The magnitude of a mid-Holocene sea-level highstand in the Strait of Makassar",
+    "Publication Year":2016,
+    "Author":"Mann, Thomas; Rovere, Alessio; Schöne, Tilo; Klicpera, André; Stocchi, Paolo; Lukman, Muhammad; Westphal, Hildegard",
+    "Publication Title":"Geomorphology",
+    "Pages":"155-163",
+    "Num Pages":"",
+    "Issue":"",
+    "Volume":257,
+    "ISBN":"",
+    "ISSN":"0169555X",
+    "DOI":"10.1016/j.geomorph.2015.12.023"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
        "coordinates":  [ 39.5397949,-4.434044 ]
     },
     "properties": {
@@ -645,20 +485,500 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -76.194,-14.238 ]
+       "coordinates":  [ -91.3485718,-0.3549935 ]
     },
     "properties": {
-    "Title":"Changes in trophic flow structure of Independence Bay (Peru) over an ENSO cycle",
-    "Publication Year":2008,
-    "Author":"Taylor, Marc H.; Wolff, Matthias; Mendo, Jaime; Yamashiro, Carmen",
-    "Publication Title":"Progress in Oceanography",
-    "Pages":"336-351",
+    "Title":"El Niño induced changes to the Bolivar Channel ecosystem (Galapagos): comparing model simulations with historical biomass time series",
+    "Publication Year":2012,
+    "Author":"Wolff, M; Ruiz, Dj; Taylor, M",
+    "Publication Title":"Marine Ecology Progress Series",
+    "Pages":"7-22",
     "Num Pages":"",
-    "Issue":"2-4",
-    "Volume":79,
+    "Issue":"",
+    "Volume":448,
     "ISBN":"",
-    "ISSN":"796611",
-    "DOI":"10.1016/j.pocean.2008.10.006"
+    "ISSN":"0171-8630, 1616-1599",
+    "DOI":"10.3354/meps09542"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -91.3602448,-0.3350811 ]
+    },
+    "properties": {
+    "Title":"The Bolivar Channel Ecosystem of the Galapagos Marine Reserve: Energy flow structure and role of keystone groups",
+    "Publication Year":2011,
+    "Author":"Ruiz, Diego J.; Wolff, Matthias",
+    "Publication Title":"Journal of Sea Research",
+    "Pages":"123-134",
+    "Num Pages":"",
+    "Issue":"2",
+    "Volume":66,
+    "ISBN":"",
+    "ISSN":"13851101",
+    "DOI":"10.1016/j.seares.2011.05.006"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -91.9054413,1.5337828 ]
+    },
+    "properties": {
+    "Title":"Elucidating fishing effects in a large-predator dominated system: The case of Darwin and Wolf Islands (Galápagos)",
+    "Publication Year":2016,
+    "Author":"Ruiz, Diego J.; Banks, Stuart; Wolff, Matthias",
+    "Publication Title":"Journal of Sea Research",
+    "Pages":"1-11",
+    "Num Pages":"",
+    "Issue":"",
+    "Volume":107,
+    "ISBN":"",
+    "ISSN":"13851101",
+    "DOI":"10.1016/j.seares.2015.11.001"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 73.22,3.2 ]
+    },
+    "properties": {
+    "Title":"Through bleaching and tsunami: Coral reef recovery in the Maldives",
+    "Publication Year":2015,
+    "Author":"Morri, Carla; Montefalcone, Monica; Lasagna, Roberta; Gatti, Giulia; Rovere, Alessio; Parravicini, Valeriano; Baldelli, Giuseppe; Colantoni, Paolo; Bianchi, Carlo Nike",
+    "Publication Title":"Marine Pollution Bulletin",
+    "Pages":"188-200",
+    "Num Pages":"",
+    "Issue":"1-2",
+    "Volume":98,
+    "ISBN":"",
+    "ISSN":"0025326X",
+    "DOI":"10.1016/j.marpolbul.2015.06.050"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.1,8.233333 ]
+    },
+    "properties": {
+    "Title":"Drones as tools for monitoring beach topography changes in the Ligurian Sea (NW Mediterranean)",
+    "Publication Year":2016,
+    "Author":"Casella, Elisa; Rovere, Alessio; Pedroncini, Andrea; Stark, Colin P.; Casella, Marco; Ferrari, Marco; Firpo, Marco",
+    "Publication Title":"Geo-Marine Letters",
+    "Pages":"151-163",
+    "Num Pages":"",
+    "Issue":"2",
+    "Volume":36,
+    "ISBN":"",
+    "ISSN":"0276-0460, 1432-1157",
+    "DOI":"10.1007/s00367-016-0435-9"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.114427,8.247597 ]
+    },
+    "properties": {
+    "Title":"Study of wave runup using numerical models and low-altitude aerial photogrammetry: A tool for coastal management",
+    "Publication Year":2014,
+    "Author":"Casella, Elisa; Rovere, Alessio; Pedroncini, Andrea; Mucerino, Luigi; Casella, Marco; Cusati, Luis Alberto; Vacchi, Matteo; Ferrari, Marco; Firpo, Marco",
+    "Publication Title":"Estuarine, Coastal and Shelf Science",
+    "Pages":"160-167",
+    "Num Pages":"",
+    "Issue":"",
+    "Volume":149,
+    "ISBN":"",
+    "ISSN":"2727714",
+    "DOI":"10.1016/j.ecss.2014.08.012"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.159744,8.322201 ]
+    },
+    "properties": {
+    "Title":"Coastal and marine geomorphology between Albenga and Savona(NW Mediterranean Sea, Italy)",
+    "Publication Year":2015,
+    "Author":"Rovere, A.; Casella, E.; Vacchi, M.; Parravicini, V.; Firpo, M.; Ferrari, M.; Morri, C.; Bianchi, C.N.",
+    "Publication Title":"Journal of Maps",
+    "Pages":"278-286",
+    "Num Pages":"",
+    "Issue":"2",
+    "Volume":11,
+    "ISBN":"",
+    "ISSN":"1744-5647",
+    "DOI":"10.1080/17445647.2014.933134"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.7444878,9.1648062 ]
+    },
+    "properties": {
+    "Title":"Can institutional change theories contribute to the understanding of marine protected areas?",
+    "Publication Year":2015,
+    "Author":"Weber de Morais, Gabriela; Schlüter, Achim; Verweij, Marco",
+    "Publication Title":"Global Environmental Change",
+    "Pages":"154-162",
+    "Num Pages":"",
+    "Issue":"",
+    "Volume":31,
+    "ISBN":"",
+    "ISSN":"9593780",
+    "DOI":"10.1016/j.gloenvcha.2015.01.008"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.13384,9.635477 ]
+    },
+    "properties": {
+    "Title":"Ecological Change, Sliding Baselines and the Importance of Historical Data: Lessons from Combing Observational and Quantitative Data on a Temperate Reef Over 70 Years",
+    "Publication Year":2015,
+    "Author":"Gatti, Giulia; Bianchi, Carlo Nike; Parravicini, Valeriano; Rovere, Alessio; Peirano, Andrea; Montefalcone, Monica; Massa, Francesco; Morri, Carla",
+    "Publication Title":"PLOS ONE",
+    "Pages":"e0118581",
+    "Num Pages":"",
+    "Issue":"2",
+    "Volume":10,
+    "ISBN":"",
+    "ISSN":"1932-6203",
+    "DOI":"10.1371/journal.pone.0118581"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.7027364,9.9974433 ]
+    },
+    "properties": {
+    "Title":"What makes them follow the rules? Empirical evidence from turtle egg harvesters in Costa Rica",
+    "Publication Year":2013,
+    "Author":"Madrigal-Ballestero, Róger; Schlüter, Achim; Claudia Lopez, Maria",
+    "Publication Title":"Marine Policy",
+    "Pages":"270-277",
+    "Num Pages":"",
+    "Issue":"",
+    "Volume":37,
+    "ISBN":"",
+    "ISSN":"0308597X",
+    "DOI":"10.1016/j.marpol.2012.05.009"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.3275523,10.9795113 ]
+    },
+    "properties": {
+    "Title":"External validity of artefactual field experiments: A study on cooperation, impatience and sustainability in an artisanal fishery in Colombia",
+    "Publication Year":2016,
+    "Author":"Torres-Guevara, Luz Elba; Schlüter, Achim",
+    "Publication Title":"Ecological Economics",
+    "Pages":"187-201",
+    "Num Pages":"",
+    "Issue":"",
+    "Volume":128,
+    "ISBN":"",
+    "ISSN":"9218009",
+    "DOI":"10.1016/j.ecolecon.2016.04.022"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.3256855,10.979743 ]
+    },
+    "properties": {
+    "Title":"Collective action in a tropical estuarine lagoon: adapting Ostrom’s SES framework to Ciénaga Grande de Santa Marta, Colombia",
+    "Publication Year":2016,
+    "Author":"Torres Guevara, Luz Elba; Schlüter, Achim; Lopez, Maria Claudia",
+    "Publication Title":"International Journal of the Commons",
+    "Pages":"334-362",
+    "Num Pages":"",
+    "Issue":"1",
+    "Volume":10,
+    "ISBN":"",
+    "ISSN":"1875-0281",
+    "DOI":"10.18352/ijc.623"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.3240118,10.9797641 ]
+    },
+    "properties": {
+    "Title":"Understanding Artisanal Fishers’ Behaviors: The Case of Ciénaga Grande de Santa Marta, Colombia",
+    "Publication Year":2016,
+    "Author":"Torres-Guevara, Luz; Lopez, Maria; Schlüter, Achim",
+    "Publication Title":"Sustainability",
+    "Pages":"549",
+    "Num Pages":"",
+    "Issue":"6",
+    "Volume":8,
+    "ISBN":"",
+    "ISSN":"2071-1050",
+    "DOI":"10.3390/su8060549"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 109.1707299,12.2595881 ]
+    },
+    "properties": {
+    "Title":"The sediment load and deposition by river discharge and their relation to organochlorine pesticides pollutants in the sediment bottom of Nha Trang Bay, Vietnam",
+    "Publication Year":2015,
+    "Author":"Du, Hoang Trung; Kunzmann, Andreas",
+    "Publication Title":"Ocean Science Journal",
+    "Pages":"455-466",
+    "Num Pages":"",
+    "Issue":"2",
+    "Volume":50,
+    "ISBN":"",
+    "ISSN":"1738-5261, 2005-7172",
+    "DOI":"10.1007/s12601-015-0041-1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 110.7624435,19.4442556 ]
+    },
+    "properties": {
+    "Title":"Impact of pond aquaculture effluents on seagrass performance in NE Hainan, tropical China",
+    "Publication Year":2014,
+    "Author":"Herbeck, Lucia S.; Sollich, Miriam; Unger, Daniela; Holmer, Marianne; Jennerjahn, Tim C.",
+    "Publication Title":"Marine Pollution Bulletin",
+    "Pages":"190-203",
+    "Num Pages":"",
+    "Issue":"1",
+    "Volume":85,
+    "ISBN":"",
+    "ISSN":"0025326X",
+    "DOI":"10.1016/j.marpolbul.2014.05.050"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 110.8407211,19.536173 ]
+    },
+    "properties": {
+    "Title":"Effluent, nutrient and organic matter export from shrimp and fish ponds causing eutrophication in coastal and back-reef waters of NE Hainan, tropical China",
+    "Publication Year":2013,
+    "Author":"Herbeck, Lucia S.; Unger, Daniela; Wu, Ying; Jennerjahn, Tim C.",
+    "Publication Title":"Continental Shelf Research",
+    "Pages":"92-104",
+    "Num Pages":"",
+    "Issue":"",
+    "Volume":57,
+    "ISBN":"",
+    "ISSN":"2784343",
+    "DOI":"10.1016/j.csr.2012.05.006"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.042297,19.688472 ]
+    },
+    "properties": {
+    "Title":"Relationships of invasive lionfish with topographic complexity, groupers, and native prey fishes in Little Cayman",
+    "Publication Year":2015,
+    "Author":"Bejarano, Sonia; Lohr, Kathryn; Hamilton, Samantha; Manfrino, Carrie",
+    "Publication Title":"Marine Biology",
+    "Pages":"253-266",
+    "Num Pages":"",
+    "Issue":"2",
+    "Volume":162,
+    "ISBN":"",
+    "ISSN":"0025-3162, 1432-1793",
+    "DOI":"10.1007/s00227-014-2595-3"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.4919163,22.9528082 ]
+    },
+    "properties": {
+    "Title":"Energy demand of larval and juvenile Cape horse mackerels, Trachurus capensis, and indications of hypoxia tolerance as benefit in a changing environment",
+    "Publication Year":2013,
+    "Author":"Geist, Simon Joscha; Ekau, Werner; Kunzmann, Andreas",
+    "Publication Title":"Marine Biology",
+    "Pages":"3221-3232",
+    "Num Pages":"",
+    "Issue":"12",
+    "Volume":160,
+    "ISBN":"",
+    "ISSN":"0025-3162, 1432-1793",
+    "DOI":"10.1007/s00227-013-2309-2"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.4919163,22.9528082 ]
+    },
+    "properties": {
+    "Title":"Distribution, feeding behaviour, and condition of Cape horse mackerel early life stages, Trachurus capensis, under different environmental conditions in the northern Benguela upwelling ecosystem",
+    "Publication Year":2015,
+    "Author":"Geist, S. J.; Kunzmann, A.; Verheye, H. M.; Eggert, A.; Schukat, A.; Ekau, W.",
+    "Publication Title":"ICES Journal of Marine Science",
+    "Pages":"543-557",
+    "Num Pages":"",
+    "Issue":"2",
+    "Volume":72,
+    "ISBN":"",
+    "ISSN":"1054-3139, 1095-9289",
+    "DOI":"10.1093/icesjms/fsu087"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.035833,24.770556 ]
+    },
+    "properties": {
+    "Title":"Evaluation of different shallow water culture methods for the scallop Nodipecten subnodosus using biologic and economic modeling",
+    "Publication Year":2006,
+    "Author":"Taylor, Marc H.; Koch, Volker; Wolff, Matthias; Sínsel, Francisco",
+    "Publication Title":"Aquaculture",
+    "Pages":"301-316",
+    "Num Pages":"",
+    "Issue":"1-4",
+    "Volume":254,
+    "ISBN":"",
+    "ISSN":"448486",
+    "DOI":"10.1016/j.aquaculture.2005.10.048"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 55.6271573,27.0226635 ]
+    },
+    "properties": {
+    "Title":"Baseline of polycyclic aromatic hydrocarbons in the surface sediment and sea cucumbers (Holothuria leucospilota and Stichopus hermanni) in the northern parts of Persian Gulf",
+    "Publication Year":2016,
+    "Author":"Khazaali, Aida; Kunzmann, Andreas; Bastami, Kazem Darvish; Baniamam, Mehrnaz",
+    "Publication Title":"Marine Pollution Bulletin",
+    "Pages":"539-545",
+    "Num Pages":"",
+    "Issue":"1",
+    "Volume":110,
+    "ISBN":"",
+    "ISSN":"0025326X",
+    "DOI":"10.1016/j.marpolbul.2016.05.039"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.9379883,33.8156663 ]
+    },
+    "properties": {
+    "Title":"A modified diagnostic social-ecological system framework for lobster fisheries: Case implementation and sustainability assessment in Southern California",
+    "Publication Year":2015,
+    "Author":"Partelow, Stefan; Boda, Chad",
+    "Publication Title":"Ocean & Coastal Management",
+    "Pages":"204-217",
+    "Num Pages":"",
+    "Issue":"",
+    "Volume":114,
+    "ISBN":"",
+    "ISSN":"9645691",
+    "DOI":"10.1016/j.ocecoaman.2015.06.022"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.3758781,33.914482 ]
+    },
+    "properties": {
+    "Title":"The low O <sub>2</sub> avoidance strategy of the Cape silverside <i>Atherina breviceps</i> (Teleostei)",
+    "Publication Year":2012,
+    "Author":"Herbert, Neill A.; Goodman, Mark; Kunzmann, Andreas",
+    "Publication Title":"Marine and Freshwater Behaviour and Physiology",
+    "Pages":"199-208",
+    "Num Pages":"",
+    "Issue":"3",
+    "Volume":45,
+    "ISBN":"",
+    "ISSN":"1023-6244, 1029-0362",
+    "DOI":"10.1080/10236244.2012.716586"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.67022,34.873511 ]
+    },
+    "properties": {
+    "Title":"Mid-Pliocene shorelines of the US Atlantic Coastal Plain — An improved elevation database with comparison to Earth model predictions",
+    "Publication Year":2015,
+    "Author":"Rovere, A.; Hearty, P.J.; Austermann, J.; Mitrovica, J.X.; Gale, J.; Moucha, R.; Forte, A.M.; Raymo, M.E.",
+    "Publication Title":"Earth-Science Reviews",
+    "Pages":"117-131",
+    "Num Pages":"",
+    "Issue":"",
+    "Volume":145,
+    "ISBN":"",
+    "ISSN":"128252",
+    "DOI":"10.1016/j.earscirev.2015.02.007"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 29.455166,34.971672 ]
+    },
+    "properties": {
+    "Title":"Budget of Primary Production and Dinitrogen Fixation in a Highly Seasonal Red Sea Coral Reef",
+    "Publication Year":2016,
+    "Author":"Cardini, Ulisse; Bednarz, Vanessa N.; van Hoytema, Nanne; Rovere, Alessio; Naumann, Malik S.; Al-Rshaidat, Mamoon M. D.; Wild, Christian",
+    "Publication Title":"Ecosystems",
+    "Pages":"771-785",
+    "Num Pages":"",
+    "Issue":"5",
+    "Volume":19,
+    "ISBN":"",
+    "ISSN":"1432-9840, 1435-0629",
+    "DOI":"10.1007/s10021-016-9966-1"
     }
   },
   {
@@ -705,20 +1025,40 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -91.3602448,-0.3350811 ]
+       "coordinates":  [ -9.402724,39.3372403 ]
     },
     "properties": {
-    "Title":"The Bolivar Channel Ecosystem of the Galapagos Marine Reserve: Energy flow structure and role of keystone groups",
-    "Publication Year":2011,
-    "Author":"Ruiz, Diego J.; Wolff, Matthias",
-    "Publication Title":"Journal of Sea Research",
-    "Pages":"123-134",
+    "Title":"Thermal stress effects on energy resource allocation and oxygen consumption rate in the juvenile sea cucumber, Holothuria scabra (Jaeger, 1833)",
+    "Publication Year":2016,
+    "Author":"Kühnhold, Holger; Kamyab, Elham; Novais, Sara; Indriana, Lisa; Kunzmann, Andreas; Slater, Matthew; Lemos, Marco",
+    "Publication Title":"Aquaculture",
+    "Pages":"",
     "Num Pages":"",
-    "Issue":"2",
-    "Volume":66,
+    "Issue":"",
+    "Volume":null,
     "ISBN":"",
-    "ISSN":"13851101",
-    "DOI":"10.1016/j.seares.2011.05.006"
+    "ISSN":"448486",
+    "DOI":"10.1016/j.aquaculture.2016.03.018"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.5962049,53.1201749 ]
+    },
+    "properties": {
+    "Title":"Functionalised ceramic spawning tiles with probiotic Pseudoalteromonas biofilms designed for clownfish aquaculture",
+    "Publication Year":2015,
+    "Author":"Wesseling, Wiebke; Wittka, Sabine; Kroll, Stephen; Soltmann, Christian; Kegler, Pia; Kunzmann, Andreas; Riss, Hans Wolfgang; Lohmeyer, Michael",
+    "Publication Title":"Aquaculture",
+    "Pages":"57-66",
+    "Num Pages":"",
+    "Issue":"",
+    "Volume":446,
+    "ISBN":"",
+    "ISSN":"448486",
+    "DOI":"10.1016/j.aquaculture.2015.04.017"
     }
   },
   {
@@ -745,126 +1085,6 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -91.9054413,1.5337828 ]
-    },
-    "properties": {
-    "Title":"Elucidating fishing effects in a large-predator dominated system: The case of Darwin and Wolf Islands (Galápagos)",
-    "Publication Year":2016,
-    "Author":"Ruiz, Diego J.; Banks, Stuart; Wolff, Matthias",
-    "Publication Title":"Journal of Sea Research",
-    "Pages":"1-11",
-    "Num Pages":"",
-    "Issue":"",
-    "Volume":107,
-    "ISBN":"",
-    "ISSN":"13851101",
-    "DOI":"10.1016/j.seares.2015.11.001"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 147.7,-18.286111 ]
-    },
-    "properties": {
-    "Title":"Influence of hydrodynamic energy on Holocene reef flat accretion, Great Barrier Reef",
-    "Publication Year":2016,
-    "Author":"Dechnik, Belinda; Webster, Jody M.; Nothdurft, Luke; Webb, Gregory E.; Zhao, Jian-xin; Duce, Stephanie; Braga, Juan C.; Harris, Daniel L.; Vila-Concejo, Ana; Puotinen, Marji",
-    "Publication Title":"Quaternary Research",
-    "Pages":"44-53",
-    "Num Pages":"",
-    "Issue":"1",
-    "Volume":85,
-    "ISBN":"",
-    "ISSN":"335894",
-    "DOI":"10.1016/j.yqres.2015.11.002"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 18.3758781,33.914482 ]
-    },
-    "properties": {
-    "Title":"The low O <sub>2</sub> avoidance strategy of the Cape silverside <i>Atherina breviceps</i> (Teleostei)",
-    "Publication Year":2012,
-    "Author":"Herbert, Neill A.; Goodman, Mark; Kunzmann, Andreas",
-    "Publication Title":"Marine and Freshwater Behaviour and Physiology",
-    "Pages":"199-208",
-    "Num Pages":"",
-    "Issue":"3",
-    "Volume":45,
-    "ISBN":"",
-    "ISSN":"1023-6244, 1029-0362",
-    "DOI":"10.1080/10236244.2012.716586"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 44.159744,8.322201 ]
-    },
-    "properties": {
-    "Title":"Coastal and marine geomorphology between Albenga and Savona(NW Mediterranean Sea, Italy)",
-    "Publication Year":2015,
-    "Author":"Rovere, A.; Casella, E.; Vacchi, M.; Parravicini, V.; Firpo, M.; Ferrari, M.; Morri, C.; Bianchi, C.N.",
-    "Publication Title":"Journal of Maps",
-    "Pages":"278-286",
-    "Num Pages":"",
-    "Issue":"2",
-    "Volume":11,
-    "ISBN":"",
-    "ISSN":"1744-5647",
-    "DOI":"10.1080/17445647.2014.933134"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 14.4919163,22.9528082 ]
-    },
-    "properties": {
-    "Title":"Distribution, feeding behaviour, and condition of Cape horse mackerel early life stages, Trachurus capensis, under different environmental conditions in the northern Benguela upwelling ecosystem",
-    "Publication Year":2015,
-    "Author":"Geist, S. J.; Kunzmann, A.; Verheye, H. M.; Eggert, A.; Schukat, A.; Ekau, W.",
-    "Publication Title":"ICES Journal of Marine Science",
-    "Pages":"543-557",
-    "Num Pages":"",
-    "Issue":"2",
-    "Volume":72,
-    "ISBN":"",
-    "ISSN":"1054-3139, 1095-9289",
-    "DOI":"10.1093/icesjms/fsu087"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 39.2178755,-6.2171162 ]
-    },
-    "properties": {
-    "Title":"Co-culture of sea cucumber <i>Holothuria scabra</i> and red seaweed <i>Kappaphycus striatum</i>",
-    "Publication Year":2016,
-    "Author":"Beltran-Gutierrez, Marisol; Ferse, Sebastian CA; Kunzmann, Andreas; Stead, Selina M; Msuya, Flower E; Hoffmeister, Thomas S; Slater, Matthew J",
-    "Publication Title":"Aquaculture Research",
-    "Pages":"1549-1559",
-    "Num Pages":"",
-    "Issue":"5",
-    "Volume":47,
-    "ISBN":"",
-    "ISSN":"1355557X",
-    "DOI":"10.1111/are.12615"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
        "coordinates":  [ 8.5962049,53.1201749 ]
     },
     "properties": {
@@ -885,26 +1105,6 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 152.091667,-23.508333]
-    },
-    "properties": {
-    "Title":"Late Holocene sea-level fall and turn-off of reef flat carbonate production: Rethinking bucket fill and coral reef growth models",
-    "Publication Year":2015,
-    "Author":"Harris, D. L.; Webster, J. M.; Vila-Concejo, A.; Hua, Q.; Yokoyama, Y.; Reimer, P. J.",
-    "Publication Title":"Geology",
-    "Pages":"175-178",
-    "Num Pages":"",
-    "Issue":"2",
-    "Volume":43,
-    "ISBN":"",
-    "ISSN":"0091-7613, 1943-2682",
-    "DOI":"10.1130/G35977.1"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
        "coordinates":  [ 8.5962049,53.1201749 ]
     },
     "properties": {
@@ -919,206 +1119,6 @@
     "ISBN":"",
     "ISSN":"1687-9481, 1687-949X",
     "DOI":"10.1155/2016/3683809"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 44.13384,9.635477 ]
-    },
-    "properties": {
-    "Title":"Ecological Change, Sliding Baselines and the Importance of Historical Data: Lessons from Combing Observational and Quantitative Data on a Temperate Reef Over 70 Years",
-    "Publication Year":2015,
-    "Author":"Gatti, Giulia; Bianchi, Carlo Nike; Parravicini, Valeriano; Rovere, Alessio; Peirano, Andrea; Montefalcone, Monica; Massa, Francesco; Morri, Carla",
-    "Publication Title":"PLOS ONE",
-    "Pages":"e0118581",
-    "Num Pages":"",
-    "Issue":"2",
-    "Volume":10,
-    "ISBN":"",
-    "ISSN":"1932-6203",
-    "DOI":"10.1371/journal.pone.0118581"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 106.7651548,-6.03581 ]
-    },
-    "properties": {
-    "Title":"Local and Regional Impacts of Pollution on Coral Reefs along the Thousand Islands North of the Megacity Jakarta, Indonesia",
-    "Publication Year":2015,
-    "Author":"Baum, Gunilla; Januar, Hedi I.; Ferse, Sebastian C. A.; Kunzmann, Andreas",
-    "Publication Title":"PLOS ONE",
-    "Pages":"e0138271",
-    "Num Pages":"",
-    "Issue":"9",
-    "Volume":10,
-    "ISBN":"",
-    "ISSN":"1932-6203",
-    "DOI":"10.1371/journal.pone.0138271"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 148.064806,-19.1274323 ]
-    },
-    "properties": {
-    "Title":"Effects of High Dissolved Inorganic and Organic Carbon Availability on the Physiology of the Hard Coral Acropora millepora from the Great Barrier Reef",
-    "Publication Year":2016,
-    "Author":"Meyer, Friedrich W.; Vogel, Nikolas; Diele, Karen; Kunzmann, Andreas; Uthicke, Sven; Wild, Christian",
-    "Publication Title":"PLOS ONE",
-    "Pages":"e0149598",
-    "Num Pages":"",
-    "Issue":"3",
-    "Volume":11,
-    "ISBN":"",
-    "ISSN":"1932-6203",
-    "DOI":"10.1371/journal.pone.0149598"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -74.3256855,10.979743 ]
-    },
-    "properties": {
-    "Title":"Collective action in a tropical estuarine lagoon: adapting Ostrom’s SES framework to Ciénaga Grande de Santa Marta, Colombia",
-    "Publication Year":2016,
-    "Author":"Torres Guevara, Luz Elba; Schlüter, Achim; Lopez, Maria Claudia",
-    "Publication Title":"International Journal of the Commons",
-    "Pages":"334-362",
-    "Num Pages":"",
-    "Issue":"1",
-    "Volume":10,
-    "ISBN":"",
-    "ISSN":"1875-0281",
-    "DOI":"10.18352/ijc.623"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 39.2178755,-6.2171162 ]
-    },
-    "properties": {
-    "Title":"Growth performance of the sea cucumber Holothuria scabra and the seaweed Eucheuma denticulatum: integrated mariculture and effects on sediment organic characteristics",
-    "Publication Year":2016,
-    "Author":"Namukose, M; Msuya, Fe; Ferse, Sca; Slater, Mj; Kunzmann, A",
-    "Publication Title":"Aquaculture Environment Interactions",
-    "Pages":"179-189",
-    "Num Pages":"",
-    "Issue":"",
-    "Volume":8,
-    "ISBN":"",
-    "ISSN":"1869-215X, 1869-7534",
-    "DOI":"10.3354/aei00172"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -91.3485718,-0.3549935 ]
-    },
-    "properties": {
-    "Title":"El Niño induced changes to the Bolivar Channel ecosystem (Galapagos): comparing model simulations with historical biomass time series",
-    "Publication Year":2012,
-    "Author":"Wolff, M; Ruiz, Dj; Taylor, M",
-    "Publication Title":"Marine Ecology Progress Series",
-    "Pages":"7-22",
-    "Num Pages":"",
-    "Issue":"",
-    "Volume":448,
-    "ISBN":"",
-    "ISSN":"0171-8630, 1616-1599",
-    "DOI":"10.3354/meps09542"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -80.9,-5.6 ]
-    },
-    "properties": {
-    "Title":"Assessing the ecosystem impact of scallop bottom culture through a community analysis and trophic modelling approach",
-    "Publication Year":2016,
-    "Author":"Kluger, Lc; Taylor, Mh; Barriga Rivera, E; Torres Silva, E; Wolff, M",
-    "Publication Title":"Marine Ecology Progress Series",
-    "Pages":"121-135",
-    "Num Pages":"",
-    "Issue":"",
-    "Volume":547,
-    "ISBN":"",
-    "ISSN":"0171-8630, 1616-1599",
-    "DOI":"10.3354/meps11652"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -74.3240118,10.9797641 ]
-    },
-    "properties": {
-    "Title":"Understanding Artisanal Fishers’ Behaviors: The Case of Ciénaga Grande de Santa Marta, Colombia",
-    "Publication Year":2016,
-    "Author":"Torres-Guevara, Luz; Lopez, Maria; Schlüter, Achim",
-    "Publication Title":"Sustainability",
-    "Pages":"549",
-    "Num Pages":"",
-    "Issue":"6",
-    "Volume":8,
-    "ISBN":"",
-    "ISSN":"2071-1050",
-    "DOI":"10.3390/su8060549"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 39.4189453,-5.7471741 ]
-    },
-    "properties": {
-    "Title":"Have the fishing communities of Zanzibar Island benefited from increasing tourism development?",
-    "Publication Year":2016,
-    "Author":"John, Sebit Benansio; Mathias, Wolff; Annette, Breckwoldt; Narriman, Jiddawi",
-    "Publication Title":"Journal of Development and Agricultural Economics",
-    "Pages":"95-107",
-    "Num Pages":"",
-    "Issue":"5",
-    "Volume":8,
-    "ISBN":"",
-    "ISSN":"2006-9774",
-    "DOI":"10.5897/JDAE2016.0727"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 178.3987427,-18.1249706 ]
-    },
-    "properties": {
-    "Title":"Resilience of the Marine Animal Forest",
-    "Publication Year":2016,
-    "Author":"Bianchi, Carlo Nike; Morri, Carla; Lasagna, Roberta; Montefalcone, Monica; Gatti, Giulia; Parravicini, Valeriano; Rovere, Alessio",
-    "Publication Title":"Marine Animal Forests",
-    "Pages":"1-30",
-    "Num Pages":"",
-    "Issue":"",
-    "Volume":null,
-    "ISBN":"978-3-319-17001-5",
-    "ISSN":"",
-    "DOI":""
     }
   }
 ]
