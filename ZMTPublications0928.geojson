@@ -765,7 +765,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -18.286111,147.7 ]
+       "coordinates":  [ 147.7,-18.286111]
     },
     "properties": {
     "Title":"Influence of hydrodynamic energy on Holocene reef flat accretion, Great Barrier Reef",
@@ -885,7 +885,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -23.508333,152.091667 ]
+       "coordinates":  [ 152.091667, -23.508333]
     },
     "properties": {
     "Title":"Late Holocene sea-level fall and turn-off of reef flat carbonate production: Rethinking bucket fill and coral reef growth models",
