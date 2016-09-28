@@ -765,7 +765,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 147.7,-18.286111]
+       "coordinates":  [ -18.286111,147.7]
     },
     "properties": {
     "Title":"Influence of hydrodynamic energy on Holocene reef flat accretion, Great Barrier Reef",
