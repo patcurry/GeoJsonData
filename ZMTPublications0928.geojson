@@ -345,7 +345,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -4.874498,119.299896]
+       "coordinates":  [ 119.299896,-4.874498 ]
     },
     "properties": {
     "Title":"The magnitude of a mid-Holocene sea-level highstand in the Strait of Makassar",
@@ -405,7 +405,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 152.091667,-23.508333]
+       "coordinates":  [ -23.508333,152.091667 ]
     },
     "properties": {
     "Title":"Spatial variations in wave transformation and sediment entrainment on a coral reef sand apron",
@@ -765,7 +765,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 147.7,-18.286111 ]
+       "coordinates":  [ -18.286111,147.7 ]
     },
     "properties": {
     "Title":"Influence of hydrodynamic energy on Holocene reef flat accretion, Great Barrier Reef",
@@ -885,7 +885,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 152.091667, -23.508333]
+       "coordinates":  [ -23.508333,152.091667 ]
     },
     "properties": {
     "Title":"Late Holocene sea-level fall and turn-off of reef flat carbonate production: Rethinking bucket fill and coral reef growth models",
