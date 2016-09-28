@@ -345,7 +345,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 119.299896,-4.874498 ]
+       "coordinates":  [ -4.874498,119.299896]
     },
     "properties": {
     "Title":"The magnitude of a mid-Holocene sea-level highstand in the Strait of Makassar",
