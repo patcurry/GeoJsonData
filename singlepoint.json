@@ -7,8 +7,9 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "island": "oahu",
-        "largest-city": "honolulu"
+        "state": "California",
+        "county": "Riverside",
+        "city": "Indio"
       },
       "geometry": {
         "type": "Point",
