@@ -1,1 +1,49 @@
-country,acronym,university,latitude,longitudeBrazil,Univille ,Fundacao Educacional Da Regiao de Joinville ,-26.241421,-48.711244Namibia,NatMIRC ,"Ministry of Fisheries and Marine Resources of Namibia, Swakopmund",-22.647853,14.599595South Africa,ORI ,"Ocean Research Institute, Durban",-29.86965,31.043483Brazil,UFPE ,Universidade Federal de Pernambuco,-8.062063,-34.90247Brazil,UFPA ,Universidade Federal do Para_ ,-1.474369,-48.45304Colombia,UTADEO ,La Fundaci—n Universidad de Bogot‡ Jorge Tadeo Lonzano,4.606887,-74.067832Costa Rica,CIMAR ,"Centro de Investigacio_n en Ciencas der Mar y Limnologia, Universidad de Costa Rica, San Jose_",9.93938,-84.043868Costa Rica,UCR,Universidad de Costa Rica,9.93672,-84.051051Vietnam,IO-VAST ,"Institute of Oceanography, Vietnam Academy of Science and Technology, NhaTrang",12.207599,109.21461China,HNU ,Hainan University,20.055986,110.331595Bangladesh,ULAB ,"University of Liberal Arts Bangladesh, Dhaka",23.740879,90.374438India,NAM S&T Centre ,"Centre for Science and Technology of the Non-aligned and other Development Countries, New Delhi",28.590003,77.225312Malta,IOI ,International Ocean Institute,35.902212,14.48382USA,WCS,Wildlife Conservation Society,38.899457,-77.024183Belgium,UGENT,Ghent University,51.046555,3.727897Ecuador,USFQ ,University of San Francisco de Quito,-0.19689,-78.435862Fiji,USP ,"University of the South Pacific, Suva",-18.149831,178.444066Ghana,UCC ,University of Cape Coast,5.115501,-1.290918India,UAS,"University of Agricultural Sciences, Bangalore, India",13.076626,77.577681Indonesia,IPB ,"Institut Pertanian Bogor, Bogor Agricultural University",-6.557318,106.724814Indonesia,PSPA ,"Pangkep State Polytechnic of Agriculture, South Sulawesi",-4.569446,119.599508Indonesia,UGM ,"Universitas Gadjah Mada, Yogyakarta",-7.771587,110.377375Indonesia,UKAW ,"Artha Wacana Christian University, Kupang",-10.193226,123.534096Indonesia,UNDIP ,"Diponegoro University, Faculty of Fisheries and Marine Science, Semarang",-7.051108,110.440829Indonesia,UNHAS ,"Universitas Hasanuddin, Makassar",-5.133911,119.488077Indonesia,UNSOED ,"Universitas Jenderal Soedirman, Purwokerto",-7.404262,109.245316Indonesia,UNSRAT ,"Sam Raulangi University, Manado",1.457771,124.8254Indonesia,UNUD ,"Udayana University, Bali",-8.798305,115.172361Jordan,FMSC ,"Faculty of Marine Sciences, University of Jordan, Aqaba",29.584245,35.024571Jordan,MSS ,"Marine Science Station, University of Jordan and Yarmouk University, Aqaba",29.584245,35.024571Namibia,SANUMARC ,"Sam Nujoma Marine & Coastal Resources Research Center, University of Namibia, Windhoek",-22.612159,17.057955Philippines,UA&P ,"University of Asia and the Pacific, Pasig City",14.580323,121.060913Philippines,UP,University of the Philippines,14.655076,121.064788Portugal,IPLeiria,"The Polytechnic Institute of Leiria, Leiria, Portugal ",39.737107,-8.810684Tanzania,IMS ,"Institute of Marine Sciences, University of Dar es Salaam, Zanzibar ",-6.78047,39.2052USA,NSU,Nova Southeastern University ,26.081246,-80.2498USA,UNC,"University of North Carolina, Chapel Hill, NC",35.904835,-79.047133Argentina,INIDEP ,Instituto Nacional de Investigacion Y Desarrollo Pesquero,-38.03169,-57.532239China,HAOFS ,Hainan Academy of Ocean and Fishery Science,20.055946,110.331531Colombia,INVEMAR,"Instituto de Investigaciones Marinas y Costeras, Santa Marta, Colombia",11.188156,-74.230756Ecuador,CDF ,"Charles Darwin Foundation, Gala_pagos ",-0.742357,-90.303815Ecuador,GSC ,Gal‡pagos Science Center,-0.895735,-89.6087Iran,INIOAS ,Iranian National Institute for Oceanography and Atmospheric Science,35.69506,51.389634Israel,IUI ,"Interuniversity Institute for Marine Sciences, Eilat",29.502139,34.916612Peru,IMARPE ,Instituto del Mar del Peru ,-13.839226,-76.251768Fiji,CFP-SPC ,"Coastal Fisheries Programme of the Secretariat of the Pacific Community, Noumea/Fiji",-18.113051,178.477065Indonesia,RCO-LIPI ,Research Centre For Oceanography - Indonesian Institute of Science,-6.228825,106.818097
+country,acronym,university,latitude,longitude
+Brazil,Univille ,Fundacao Educacional Da Regiao de Joinville ,-26.241421,-48.711244
+Namibia,NatMIRC ,"Ministry of Fisheries and Marine Resources of Namibia, Swakopmund",-22.647853,14.599595
+South Africa,ORI ,"Ocean Research Institute, Durban",-29.86965,31.043483
+Brazil,UFPE ,Universidade Federal de Pernambuco,-8.062063,-34.90247
+Brazil,UFPA ,Universidade Federal do Para_ ,-1.474369,-48.45304
+Colombia,UTADEO ,La Fundaciâ€”n Universidad de Bogotâ€¡ Jorge Tadeo Lonzano,4.606887,-74.067832
+Costa Rica,CIMAR ,"Centro de Investigacio_n en Ciencas der Mar y Limnologia, Universidad de Costa Rica, San Jose_",9.93938,-84.043868
+Costa Rica,UCR,Universidad de Costa Rica,9.93672,-84.051051
+Vietnam,IO-VAST ,"Institute of Oceanography, Vietnam Academy of Science and Technology, NhaTrang",12.207599,109.21461
+China,HNU ,Hainan University,20.055986,110.331595
+Bangladesh,ULAB ,"University of Liberal Arts Bangladesh, Dhaka",23.740879,90.374438
+India,NAM S&T Centre ,"Centre for Science and Technology of the Non-aligned and other Development Countries, New Delhi",28.590003,77.225312
+Malta,IOI ,International Ocean Institute,35.902212,14.48382
+USA,WCS,Wildlife Conservation Society,38.899457,-77.024183
+Belgium,UGENT,Ghent University,51.046555,3.727897
+Ecuador,USFQ ,University of San Francisco de Quito,-0.19689,-78.435862
+Fiji,USP ,"University of the South Pacific, Suva",-18.149831,178.444066
+Ghana,UCC ,University of Cape Coast,5.115501,-1.290918
+India,UAS,"University of Agricultural Sciences, Bangalore, India",13.076626,77.577681
+Indonesia,IPB ,"Institut Pertanian Bogor, Bogor Agricultural University",-6.557318,106.724814
+Indonesia,PSPA ,"Pangkep State Polytechnic of Agriculture, South Sulawesi",-4.569446,119.599508
+Indonesia,UGM ,"Universitas Gadjah Mada, Yogyakarta",-7.771587,110.377375
+Indonesia,UKAW ,"Artha Wacana Christian University, Kupang",-10.193226,123.534096
+Indonesia,UNDIP ,"Diponegoro University, Faculty of Fisheries and Marine Science, Semarang",-7.051108,110.440829
+Indonesia,UNHAS ,"Universitas Hasanuddin, Makassar",-5.133911,119.488077
+Indonesia,UNSOED ,"Universitas Jenderal Soedirman, Purwokerto",-7.404262,109.245316
+Indonesia,UNSRAT ,"Sam Raulangi University, Manado",1.457771,124.8254
+Indonesia,UNUD ,"Udayana University, Bali",-8.798305,115.172361
+Jordan,FMSC ,"Faculty of Marine Sciences, University of Jordan, Aqaba",29.584245,35.024571
+Jordan,MSS ,"Marine Science Station, University of Jordan and Yarmouk University, Aqaba",29.584245,35.024571
+Namibia,SANUMARC ,"Sam Nujoma Marine & Coastal Resources Research Center, University of Namibia, Windhoek",-22.612159,17.057955
+Philippines,UA&P ,"University of Asia and the Pacific, Pasig City",14.580323,121.060913
+Philippines,UP,University of the Philippines,14.655076,121.064788
+Portugal,IPLeiria,"The Polytechnic Institute of Leiria, Leiria, Portugal ",39.737107,-8.810684
+Tanzania,IMS ,"Institute of Marine Sciences, University of Dar es Salaam, Zanzibar ",-6.78047,39.2052
+USA,NSU,Nova Southeastern University ,26.081246,-80.2498
+USA,UNC,"University of North Carolina, Chapel Hill, NC",35.904835,-79.047133
+Argentina,INIDEP ,Instituto Nacional de Investigacion Y Desarrollo Pesquero,-38.03169,-57.532239
+China,HAOFS ,Hainan Academy of Ocean and Fishery Science,20.055946,110.331531
+Colombia,INVEMAR,"Instituto de Investigaciones Marinas y Costeras, Santa Marta, Colombia",11.188156,-74.230756
+Ecuador,CDF ,"Charles Darwin Foundation, Gala_pagos ",-0.742357,-90.303815
+Ecuador,GSC ,Galâ€¡pagos Science Center,-0.895735,-89.6087
+Iran,INIOAS ,Iranian National Institute for Oceanography and Atmospheric Science,35.69506,51.389634
+Israel,IUI ,"Interuniversity Institute for Marine Sciences, Eilat",29.502139,34.916612
+Peru,IMARPE ,Instituto del Mar del Peru ,-13.839226,-76.251768
+Fiji,CFP-SPC ,"Coastal Fisheries Programme of the Secretariat of the Pacific Community, Noumea/Fiji",-18.113051,178.477065
+Indonesia,RCO-LIPI ,Research Centre For Oceanography - Indonesian Institute of Science,-6.228825,106.818097
+Australia,GCI ,Global Change Institute,-27.497662,153.014669
